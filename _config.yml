@@ -21,11 +21,11 @@ author: EUROMATLATL
 
 navbar-links:
   Congresos:
-    - I Congreso de Códices: "https://beautifuljekyll.com"
-    - II Congreso de Códices: "https://www.markdowntutorial.com/"
-    - III Congreso de Códices: "https://www.markdowntutorial.com/"
-    - IV Congreso de Códices: "https://www.markdowntutorial.com/"
-    - V Congreso de Códices: "https://www.markdowntutorial.com/"
+    - I Congreso de Códices: "i-congreso"
+    - II Congreso de Códices: "ii-congreso"
+    - III Congreso de Códices: "i-congreso.md"
+    - IV Congreso de Códices: "/_posts/i-congreso.md"
+    - V Congreso de Códices: "https://euromatlatl.github.io/i-congreso"
     - VI Congreso de Códices: "https://www.markdowntutorial.com/"
   Sobre nosotros: "aboutme"
 
