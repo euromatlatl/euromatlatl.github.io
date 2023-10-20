@@ -20,7 +20,6 @@ author: EUROMATLATL
 ###############################################
 
 navbar-links:
-  Sobre nosotros: "aboutme"
   Congresos:
     - I Congreso de Códices: "https://beautifuljekyll.com"
     - II Congreso de Códices: "https://www.markdowntutorial.com/"
@@ -28,6 +27,7 @@ navbar-links:
     - IV Congreso de Códices: "https://www.markdowntutorial.com/"
     - V Congreso de Códices: "https://www.markdowntutorial.com/"
     - VI Congreso de Códices: "https://www.markdowntutorial.com/"
+  Sobre nosotros: "aboutme"
 
 ################
 # --- Logo --- #
