@@ -22,7 +22,7 @@ author: EUROMATLATL
 navbar-links:
   Congresos:
     - I Congreso de Códices: "i-congreso"
-    - II Congreso de Códices: "ii-congreso"
+    - II Congreso de Códices: "/congresos/i-congreso"
     - III Congreso de Códices: "i-congreso.md"
     - IV Congreso de Códices: "/_posts/i-congreso.md"
     - V Congreso de Códices: "https://euromatlatl.github.io/i-congreso"
