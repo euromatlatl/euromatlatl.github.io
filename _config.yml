@@ -27,7 +27,7 @@ navbar-links:
     - IV Congreso de Códices: "/_posts/i-congreso.md"
     - V Congreso de Códices: "https://euromatlatl.github.io/i-congreso"
     - VI Congreso de Códices: "https://www.markdowntutorial.com/"
-  Sobre nosotros: "aboutme"
+  ¿Quiénes somos?: "aboutme"
 
 ################
 # --- Logo --- #
