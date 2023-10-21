@@ -3,7 +3,6 @@ layout: post
 title: I CONGRESO
 subtitle: Primer Simposio Europeo sobre Códices del Centro de México
 cover-img: /assets/img/1-casa.jpg
-thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/1-casa.jpg
 tags: [congreso, códices]
 ---
