@@ -8,13 +8,13 @@ tags: [sexto, congreso, códices]
 
 [Programa](/congresos/codices/vi/docs/VI-Simposio-2016.pdf)
 
-##ORGANIZACIÓN
+## ORGANIZACIÓN
 
  - Dr. Juan José Batalla Rosado (Universidad Complutense de Madrid, España)
  - Dr. José Luis de Rojas (Universidad Complutense de Madrid, España)
  - Dr. Miguel Ángel Ruz Barrio (El Colegio Mexiquense, A.C., México)
 
-##COMITÉ CIENTÍFICO INTERNACIONAL
+## COMITÉ CIENTÍFICO INTERNACIONAL
 
 - Dra. Elizabeth Baquedano (University College London, Gran Bretaña)
 - Dr. José Contel (Universidad de Toulouse, Francia)
@@ -22,7 +22,7 @@ tags: [sexto, congreso, códices]
 - Dra. Katarzyna Mikulska (Universidad de Varsovia, Polonia)
 - Dr. Carlos Santamarina Novillo (Universidad Complutense de Madrid, España)
 
-##PARTICIPANTES
+## PARTICIPANTES
 
 - BAENA, Angélica (UNAM, México): Las convenciones para representar el sacrificio en los códices del Grupo Borgia y los códices históricos mixtecos
 
