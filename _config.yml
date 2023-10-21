@@ -44,7 +44,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/logo.png"
 
 
 #####################################
@@ -57,7 +57,7 @@ round-avatar: true
 social-network-links:
   email: "euromatlatl@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: euromatlatl
+  facebook: euromatlatl
   github: euromatlatl
 #  twitter: daattali
 #  patreon: DeanAttali
