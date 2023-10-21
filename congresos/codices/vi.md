@@ -6,13 +6,16 @@ cover-img: /assets/img/mendoza.jpg
 tags: [sexto, congreso, códices]
 ---
 
-[Programa](/congresos/codices/vi/docs/VI-Simposio-2016.pdf)
+
+[Ver Programa](/congresos/codices/vi/docs/VI-Simposio-2016.pdf)
+
 
 ## ORGANIZACIÓN
 
  - Dr. Juan José Batalla Rosado (Universidad Complutense de Madrid, España)
  - Dr. José Luis de Rojas (Universidad Complutense de Madrid, España)
  - Dr. Miguel Ángel Ruz Barrio (El Colegio Mexiquense, A.C., México)
+
 
 ## COMITÉ CIENTÍFICO INTERNACIONAL
 
@@ -21,6 +24,7 @@ tags: [sexto, congreso, códices]
 - Dr. Patrick Lesbre (Universidad de Toulouse, Francia)
 - Dra. Katarzyna Mikulska (Universidad de Varsovia, Polonia)
 - Dr. Carlos Santamarina Novillo (Universidad Complutense de Madrid, España)
+
 
 ## PARTICIPANTES
 
