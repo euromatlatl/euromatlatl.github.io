@@ -9,7 +9,7 @@ tags: [sexto, congreso, códices]
 [Ver Programa](/congresos/codices/vi/docs/VI-Simposio-2016.pdf)
 >
 >
-## ORGANIZACIÓN
+# ORGANIZACIÓN
 >
  - Dr. Juan José Batalla Rosado (Universidad Complutense de Madrid, España)
  - Dr. José Luis de Rojas (Universidad Complutense de Madrid, España)
