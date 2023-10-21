@@ -21,12 +21,14 @@ author: EUROMATLATL
 
 navbar-links:
   Congresos:
-    - I Congreso de Códices: "i-congreso"
-    - II Congreso de Códices: "/congresos/i-congreso"
-    - III Congreso de Códices: "i-congreso.md"
-    - IV Congreso de Códices: "/_posts/i-congreso.md"
-    - V Congreso de Códices: "https://euromatlatl.github.io/i-congreso"
-    - VI Congreso de Códices: "https://www.markdowntutorial.com/"
+    - I Congreso de Códices: "congresos/i-congreso"
+    - II Congreso de Códices: "/congresos/ii-congreso"
+    - III Congreso de Códices: "/congresos/iii-congreso.md"
+    - IV Congreso de Códices: "/congresos/vi-congreso.md"
+    - V Congreso de Códices: "/congresos/v-congreso.md"
+    - VI Congreso de Códices: "/congresos/vi-congreso.md"
+    - VII Congreso de Códices: "/congresos/vii-congreso.md"
+    - VIII Congreso de Códices: "/congresos/viii-congreso.md"
   ¿Quiénes somos?: "aboutme"
 
 ################
