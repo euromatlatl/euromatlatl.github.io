@@ -21,14 +21,14 @@ author: EUROMATLATL
 
 navbar-links:
   Congresos:
-    - I Congreso de Códices: "congresos/codices/i/i"
-    - II Congreso de Códices: "/congresos/codices/ii/ii"
-    - III Congreso de Códices: "/congresos/codices/iii/iii"
-    - IV Congreso de Códices: "/congresos/codices/iv/iv"
-    - V Congreso de Códices: "/congresos/codices/v/v"
-    - VI Congreso de Códices: "/congresos/codices/vi/vi"
-    - VII Congreso de Códices: "/congresos/codices/vii/vii"
-    - VIII Congreso de Códices: "/congresos/codices/viii/viii"
+    - I Congreso de Códices: "congresos/codices/i"
+    - II Congreso de Códices: "/congresos/codices/ii"
+    - III Congreso de Códices: "/congresos/codices/iii"
+    - IV Congreso de Códices: "/congresos/codices/iv"
+    - V Congreso de Códices: "/congresos/codices/v"
+    - VI Congreso de Códices: "/congresos/codices/vi"
+    - VII Congreso de Códices: "/congresos/codices/viii"
+    - VIII Congreso de Códices: "/congresos/codices/viii"
   ¿Quiénes somos?: "acercade"
 
 ################
