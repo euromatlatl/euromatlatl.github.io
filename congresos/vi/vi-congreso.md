@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-[Programa](VI-Simposio-2016.pdf)
+[Programa](/VI-Simposio-2016.pdf)
 
 [Programa2](/vi/VI-Simposio-2016.pdf)
 
