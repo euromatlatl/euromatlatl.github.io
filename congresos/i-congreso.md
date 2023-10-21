@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: I CONGRESO
 subtitle: Primer Simposio Europeo sobre Códices del Centro de México
 cover-img: /assets/img/1-casa.jpg
