@@ -58,7 +58,7 @@ social-network-links:
   email: "euromatlatl@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: euromatlatl
-  github: euromatlatl
+#  github: euromatlatl
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
