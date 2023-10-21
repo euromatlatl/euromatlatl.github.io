@@ -1,7 +1,7 @@
 ---
-layout: page
-title: II CONGRESO
-subtitle: Segundo Simposio Europeo sobre Códices del Centro de México
+layout: post
+title: II Simposio Europeo sobre Códices del Centro de México
+subtitle: (1 de enero - 31 de diciembre, 2999)
 cover-img: /assets/img/mendoza.jpg
 tags: [congreso, códices]
 ---
