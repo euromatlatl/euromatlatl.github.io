@@ -7,7 +7,7 @@ tags: [histórico, congreso, códices]
 ---
 
 | Participante | I | II | III | IV | V | VI | VII | VIII |
-| ----------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :----------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | AGUILAR, Manuel |     |     |     |     |     |     |x|     |
 | BAENA, Angélica | | | | | | | | |
 | BAQUEDANO, Elizabeth | | | | | | | | |
