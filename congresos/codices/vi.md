@@ -13,6 +13,8 @@ tags: [sexto, congreso, códices]
 {: .box-note}
 **[Ver Programa (cronológico)](/congresos/codices/vi/docs/VI-Simposio-2016.pdf)**
 
+<br/>
+
 ## Organización  
 
  - Dr. Juan José Batalla Rosado (Universidad Complutense de Madrid, España)
