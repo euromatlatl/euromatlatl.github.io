@@ -1,10 +1,9 @@
 ---
 layout: page
-title: III Congreso Internacional Códices del Centro de México
-subtitle: Universidad Complutense de Madrid (fecha)
+title: III SIMPOSIO INTERNACIONAL SOBRE CÓDICES DEL CENTRO DE MÉXICO
+subtitle: UCM, Madrid (fecha)
 cover-img: /assets/img/mendoza.jpg
 tags: [tercer, congreso, códices]
-comments: true
 ---
 
 [Ver Programa](/congresos/codices/iii/docs/dummy.txt)
