@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IV SIMPOSIO COMPLUTENSE SOBRE CÓDICES DEL CENTRO DE MÉXICO
-subtitle: Universidad Complutense de Madrid (18 al 19 de octubre de 2012)
+subtitle: UCM, Madrid (18 al 19 de octubre de 2012)
 cover-img: /assets/img/mendoza.jpg
 tags: [cuarto, congreso, códices]
 ---
