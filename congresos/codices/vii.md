@@ -1,10 +1,9 @@
 ---
 layout: page
-title: VII Congreso Internacional Códices del Centro de México
-subtitle: Universidad Complutense de Madrid (17 al 19 de diciembre de 2018)
+title: VII CONGRESO INTERNACIONAL CÓDICES DEL CENTRO DE MÉXICO
+subtitle: UCM, Madrid (17 al 19 de diciembre de 2018)
 cover-img: /assets/img/mendoza.jpg
 tags: [séptimo, congreso, códices]
-comments: true
 ---
 
 ## Homenaje al Dr. Alfonso Lacadena
