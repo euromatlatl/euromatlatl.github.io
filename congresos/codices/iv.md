@@ -6,6 +6,8 @@ cover-img: /assets/img/mendoza.jpg
 tags: [cuarto, congreso, códices]
 ---
 
+**CONGRESO:** [I](/congresos/codices/i) - [II](/congresos/codices/ii) - [III](/congresos/codices/iii) - **IV** - [V](/congresos/codices/v) - [VI](/congresos/codices/vi) - [VII](/congresos/codices/vii) - [VIII](/congresos/codices/viii)
+
 [Ver Programa](/congresos/codices/iv/docs/IV-Congreso-2012.pdf)
 
 
