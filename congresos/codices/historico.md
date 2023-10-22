@@ -5,9 +5,9 @@ subtitle: Participantes
 cover-img: /assets/img/mendoza.jpg
 tags: [histórico, congreso, códices]
 ---
-<center>
+
 | Participante | I | II | III | IV | V | VI | VII | VIII |
-| :----------- |:- | :- | :-- | :- | :-| :- | :-- | :--- |
+| ----------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | AGUILAR, Manuel |     |     |     |     |     |     |x|     |
 | BAENA, Angélica | | | | | | | | |
 | BAQUEDANO, Elizabeth | | | | | | | | |
@@ -88,6 +88,6 @@ tags: [histórico, congreso, códices]
 | VAUZELE, Loïc | | | | | | | | |
 | WHITAKKER, Gordon | | | | | | | | |
 | WICHMANN, Sören | | | | | | | | |
-</center>
+
 
 
