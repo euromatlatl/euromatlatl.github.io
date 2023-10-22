@@ -6,11 +6,14 @@ cover-img: /assets/img/mendoza.jpg
 tags: [primer, congreso, códices]
 ---
 
-**CONGRESO:** **I** - [II](/congresos/codices/ii) - [III](/congresos/codices/iii) - [IV](/congresos/codices/iv) - [V](/congresos/codices/v) - [VI](/congresos/codices/vi) - [VII](/congresos/codices/vii) - [VIII](/congresos/codices/viii)
+| **CONGRESO:** | **I** | [II](/congresos/codices/ii) | [III](/congresos/codices/iii) | [IV](/congresos/codices/iv) | [V](/congresos/codices/v) | [VI](/congresos/codices/vi) | [VII](/congresos/codices/vii) | [VIII](/congresos/codices/viii) |
 
+<br/>
 
+{: .box-note}
 [Ver Programa](/congresos/codices/i/docs/I-Congreso-2004.pdf)
 
+<br/>
 
 ## Organización
 
@@ -18,10 +21,12 @@ tags: [primer, congreso, códices]
  - Dr. José Luis de Rojas (Universidad Complutense de Madrid, España)
  - Dr. Carlos Santamarina Novillo (Universidad Complutense de Madrid, España)
 
+<br/>
 
 ## Comité científico internacional
 
 
+<br/>
 
 ## Participantes (alfabético)
 
