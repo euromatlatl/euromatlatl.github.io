@@ -1,11 +1,11 @@
 ---
 layout: page
-title: VI CONGRESO
-subtitle: VI Simposio Europeo sobre Códices del Centro de México
+title: VI Simposio Europeo sobre Códices del Centro de México
+subtitle: Universidad Complutense de Madrid (14 al 16 de diciembre de 2016)
 cover-img: /assets/img/mendoza.jpg
 tags: [sexto, congreso, códices]
+comments: true
 ---
-*Universidad Complutense de Madrid (14 al 16 de diciembre de 2016)*
 
 [Ver Programa](/congresos/codices/vi/docs/VI-Simposio-2016.pdf)
 
@@ -26,7 +26,7 @@ tags: [sexto, congreso, códices]
 - Dr. Carlos Santamarina Novillo (Universidad Complutense de Madrid, España)
 
 
-## Participantes
+## Participantes (alfabético)
 
 - BAENA, Angélica (UNAM, México): *Las convenciones para representar el sacrificio en los códices del Grupo Borgia y los códices históricos mixtecos*
 
