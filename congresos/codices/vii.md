@@ -13,12 +13,15 @@ tags: [séptimo, congreso, códices]
 
 ## Organización
 
+
  - Dr. Juan José Batalla Rosado (Universidad Complutense de Madrid, España)
  - Dr. José Luis de Rojas (Universidad Complutense de Madrid, España)
  - Dr. Miguel Ángel Ruz Barrio (El Colegio Mexiquense, A.C., México)
 
 
+
 ## Comité científico internacional
+
 
 - Dra. Elizabeth Baquedano (University College London, Gran Bretaña)
 - Dr. José Contel (Universidad de Toulouse, Francia)
@@ -28,5 +31,6 @@ tags: [séptimo, congreso, códices]
 
 
 ## Participantes (alfabético)
+
 
 - BAENA, Angélica (UNAM, México): *Las convenciones para representar el sacrificio en los códices del Grupo Borgia y los códices históricos mixtecos*
