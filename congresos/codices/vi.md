@@ -1,22 +1,23 @@
 ---
-layout: post
-title: VI Simposio Europeo sobre Códices del Centro de México
-subtitle: Universidad Complutense de Madrid<br/>(14 al 16 de diciembre, 2016)
+layout: page
+title: VI CONGRESO
+subtitle: VI Simposio Europeo sobre Códices del Centro de México
 cover-img: /assets/img/mendoza.jpg
 tags: [sexto, congreso, códices]
 ---
+*Universidad Complutense de Madrid (14 al 16 de diciembre de 2016)*
 
 [Ver Programa](/congresos/codices/vi/docs/VI-Simposio-2016.pdf)
 
 
-## ORGANIZACIÓN
+## Organización
 
  - Dr. Juan José Batalla Rosado (Universidad Complutense de Madrid, España)
  - Dr. José Luis de Rojas (Universidad Complutense de Madrid, España)
  - Dr. Miguel Ángel Ruz Barrio (El Colegio Mexiquense, A.C., México)
 
 
-## COMITÉ CIENTÍFICO INTERNACIONAL
+## Comité científico internacional
 
 - Dra. Elizabeth Baquedano (University College London, Gran Bretaña)
 - Dr. José Contel (Universidad de Toulouse, Francia)
@@ -25,7 +26,7 @@ tags: [sexto, congreso, códices]
 - Dr. Carlos Santamarina Novillo (Universidad Complutense de Madrid, España)
 
 
-## PARTICIPANTES
+## Participantes
 
 - BAENA, Angélica (UNAM, México): *Las convenciones para representar el sacrificio en los códices del Grupo Borgia y los códices históricos mixtecos*
 
