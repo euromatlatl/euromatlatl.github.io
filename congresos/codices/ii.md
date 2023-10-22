@@ -6,7 +6,7 @@ cover-img: /assets/img/mendoza.jpg
 tags: [segundo, congreso, códices]
 ---
 
-**CONGRESO:** [I]() - **II** - [III]() - [IV]() - [V]() - [VI]() - [VII]() - [VIII]()
+**CONGRESO:** [I](/congresos/codices/i) - **II** - [III](/congresos/codices/iii) - [IV](/congresos/codices/iv) - [V](/congresos/codices/v) - [VI](/congresos/codices/vi) - [VII](/congresos/codices/vii) - [VIII](/congresos/codices/viii)
 
 [Ver Programa](/congresos/codices/ii/docs/II-Congreso.2007.pdf)
 
