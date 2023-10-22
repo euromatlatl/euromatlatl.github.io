@@ -7,6 +7,7 @@ tags: [histórico, congreso, códices]
 ---
 
 ## Tabla de participantes (orden alfabético)
+<br/><br/>
 
 | Participante |I|II|III|IV|V|VI|VII|VIII|
 | :----------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
