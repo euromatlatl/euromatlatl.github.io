@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¡Bienvenidos!
-subtitle: Red Europea EUROMATLATL
+subtitle: EUROMATLATL, la red de investigación europea
 cover-img: /assets/img/mendoza.jpg
 thumbnail-img: /assets/img/euromatlatl-tlacuilo.png
 share-img: /assets/img/mendoza.jpg
