@@ -1,10 +1,9 @@
 ---
-layout: post
-title: VI Simposio Europeo sobre Códices del Centro de México
-subtitle: Universidad Complutense de Madrid (14 al 16 de diciembre de 2016)
+layout: PAGE
+title: VI SIMPOSIO EUROPEO SOBRE CÓDICES DEL CENTRO DE MÉXICO
+subtitle: UCM, Madrid (14 al 16 de diciembre de 2016)
 cover-img: /assets/img/mendoza.jpg
 tags: [sexto, congreso, códices]
-comments: true
 ---
 
 [Ver Programa](/congresos/codices/vi/docs/VI-Simposio-2016.pdf)
