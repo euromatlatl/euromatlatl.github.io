@@ -21,7 +21,7 @@ author: EUROMATLATL
 
 navbar-links:
   Congresos:
-    - Histórico de Congresos: "/congresos/condices/historico"
+    - Histórico de Congresos: "/congresos/codices/historico"
     - I Congreso de Códices: "/congresos/codices/i"
     - II Congreso de Códices: "/congresos/codices/ii"
     - III Congreso de Códices: "/congresos/codices/iii"
