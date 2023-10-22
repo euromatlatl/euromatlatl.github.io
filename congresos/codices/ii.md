@@ -1,10 +1,9 @@
 ---
 layout: page
-title: II Congreso Internacional Códices del Centro de México
-subtitle: Universidad Complutense de Madrid (fecha)
+title: II SIMPOSIO INTERNACIONAL SOBRE CÓDICES DEL CENTRO DE MÉXICO
+subtitle: UCM, Madrid (fecha)
 cover-img: /assets/img/mendoza.jpg
 tags: [segundo, congreso, códices]
-comments: true
 ---
 
 [Ver Programa](/congresos/codices/ii/docs/dummy.txt)
