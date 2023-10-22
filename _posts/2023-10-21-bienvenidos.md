@@ -9,7 +9,9 @@ tags: [bienvenidos, red, europea, investigación, códices, euromatlatl]
 comments: true
 ---
 
-## EUROMATLATL: La Red de Investigación Europea sobre Códices y Mesoamérica
+## EUROMATLATL
+
+**La Red de Investigación Europea sobre Códices y Mesoamérica**
 
 Con el espíritu de aglutinar la extensa red de investigadores europeos sobre códices y Mesoamérica, EUROMATLATL nace con el propósito de avanzar en dicha labor, dotándose de un punto de encuentro y de intercambio del conocimiento, que sirva para dar continuidad e impulsar dicha temática en Europa.
 
