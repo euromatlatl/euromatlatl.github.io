@@ -1,10 +1,9 @@
 ---
 layout: page
-title: VIII Congreso Internacional Códices del Centro de México
-subtitle: Universidad Complutense de Madrid (26 al 28 de octubre de 2022)
+title: VIII CONGRESO INTERNACIONAL CÓDICES DEL CENTRO DE MÉXICO
+subtitle: UCM, Madrid (26 al 28 de octubre de 2022)
 cover-img: /assets/img/mendoza.jpg
 tags: [octavo, congreso, códices]
-comments: true
 ---
 
 [Ver Programa](/congresos/codices/viii/docs/VIII-Congreso-2022.pdf)
