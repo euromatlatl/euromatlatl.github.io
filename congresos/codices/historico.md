@@ -91,5 +91,5 @@ tags: [histórico, congreso, códices]
 | WICHMANN, Sören |+ | | | | | | | |
 
 {: .box-note}
-**LEYENDA:** <br/> **X**: Ponente <br/> **+**: En co-autoría <br/> **O**: Solo como organizador
+**Leyenda:** <br/> **[X]**: Ponente <br/> **[+]**: En co-autoría <br/> **[O]**: Solo como organizador
 
