@@ -6,64 +6,65 @@ cover-img: /assets/img/mendoza.jpg
 tags: [histórico, congreso, códices]
 ---
 
-| Participante | I | II | III | IV | V | VI | VII | VIII |
+| Participante |I|II|III|IV|V|VI|VII|VIII|
 | :----------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| AGUILAR, Manuel |     |     |     |     |     |     |X|     |
-| BAENA, Angélica | | | | | | | | |
-| BAQUEDANO, Elizabeth | | | | | | | | |
-| BATALLA, Juan José | | | | | | | | |
-| BOSQUE, Cristina | | | | | | | | |
-| BROKAW, Galen | | | | | | | | |
-| BRYLAK, Agnieszka | | | | | | | | |
-| BUENO, Isabel | | | | | | | | |
-| CASTAÑEDA, María | | | | | | | | |
-| CHUCHIAK, John | | | | | | | | |
-| DAVLETSIN, Albert | | | | | | | | |
-| DÉHOUVE, Danièle | | | | | | | | |
-| DÍAZ, Ana Guadalupe | | | | | | | | |
-| DOESBURG, Sebastian van | | | | | | | | |
-| DOMENICI, Davide | | | | | | | | |
-| DUPEY, Elodie | | | | | | | | |
-| GAILLEMIN, Berenice | | | | | | | | |
-| GALENDE, Juan Carlos | | | | | | | | |
-| GARCÍA CASTRO, René | | | | | | | | |
-| GENOTTE, Jean-François | | | | | | | | |
-| GAJEWSKA, Marta | | | | | | | | |
-| GÓMEZ, Lidia | | | | | | | | |
-| GONZÁLEZ, Gerardo | | | | | | | | |
-| GONZÁLEZ, Gregorio | | | | | | | | |
-| GONZÁLEZ, Sara | | | | | | | | |
-| GRAULICH, Michel | | | | | | | | |
-| GRUDA, Szymon | | | | | | | | |
-| HERNÁNDEZ, Gilda | | | | | | | | |
-| HERRERA, José Ignacio | | | | | | | | |
-| JAGODZYNSKI, Kajetan | | | | | | | | |
-| JANSEN, Maarten | | | | | | | | |
-| JAQUÍN, Mª Teresa | | | | | | | | |
-| KÖHLER, Remy | | | | | | | | |
-| KOWALCZYK, Justina | | | | | | | | |
-| KUBIAK, Ewa | | | | | | | | |
-| LACADENA, Alfonso | | | | | | | | |
-| LATSANOPOULOS, Nicolás | | | | | | | | |
-| LESBRE, Patrick | | | | | | | | |
-| LÓPEZ OLIVA, Macarena | | | | | | | | |
-| LÓPEZ ORTEGO, Cristina | | | | | | | | |
-| MADAJCZAK, Julia | | | | | | | | |
-| MARYNIAK, Joanna | | | | | | | | |
-| MARTÍN GABALDÓN, Marta | | | | | | | | |
-| MARTÍNEZ, Leticia | | | | | | | | |
-| MARTÍNEZ, Raymundo | | | | | | | | |
-| MAZZETO, Elena | | | | | | | | |
-| MEGGED, Amos | | | | | | | | |
-| MEJÍA, Karen Yvette | | | | | | | | |
-| MIKULSKA, Katarzyna | | | | | | | | |
-| MONTORO, Glaucia | | | | | | | | |
-| OFFNER, Jerry | | | | | | | | |
-| OLKO, Justyna | | | | | | | | |
-| OUDIJK, Michel | | | | | | | | |
-| PANTOJA, Adrián | | | | | | | | |
-| PÉREZ, Lisardo | | | | | | | | |
-| PERRI, Antonio | | | | | | | | |
+| AGUILAR, Manuel | | | | | | |X | |
+| BAENA, Angélica | | | | | |X | | |
+| BAQUEDANO, Elizabeth | |X |X | |X |X | | |
+| BATALLA, Juan José |X |X |X |X |X |X |X |X |
+| BOSQUE, Cristina | | | | |X |X |X |X |
+| BROKAW, Galen | | | | | | | |X |
+| BRYLAK, Agnieszka | |X | |X |X |X |X |X |
+| BUENO, Isabel | |X |X |X |X |X |X |X |
+| CASTAÑEDA, María |X | | | | |X |X | |
+| CHUCHIAK, John | | | | | | | |+ |
+| DAVLETSIN, Albert | | | | | |X | |+ |
+| DÉHOUVE, Danièle | | | | | |X |X | |
+| DÍAZ, Ana Guadalupe | | | |X | | | | |
+| DOESBURG, Sebastian van | | | | | | |+ | |
+| DOMENICI, Davide | | | | | |X |X | |
+| DUPEY, Elodie | | | | | |X |X |X |
+| GAILLEMIN, Berenice | | |X | |X | | | |
+| GALENDE, Juan Carlos |X | | | | | | | |
+| GARCÍA CASTRO, René | | |X | | | | | |
+| GENOTTE, Jean-François |X | | | | | | | |
+| GAJEWSKA, Marta | | | | |X | | | |
+| GÓMEZ, Lidia | | | | | |X | | |
+| GONZÁLEZ, Gerardo | | | |X | | | | |
+| GONZÁLEZ, Gregorio | | | | | |X |X | |
+| GONZÁLEZ, Sara | | | | | | |X | |
+| GRAULICH, Michel |X | | | | | | | |
+| GRUDA, Szymon | | | | | | |+ | |
+| HERNÁNDEZ, Gilda |X | | | | | | | |
+| HERRERA, José Ignacio | | | | | |X | | |
+| JAGODZYNSKI, Kajetan | | | | | |X |X | |
+| JANSEN, Maarten | |X | | | | | | |
+| JAQUÍN, Mª Teresa | | |X |X |X |X | |X |
+| KÖHLER, Remy | | | | | | |X | |
+| KOWALCZYK, Justina | | | | | |X |X |X |
+| KUBIAK, Ewa | | | | | |+ | | |
+| LACADENA, Alfonso |X |X | | | |X | | |
+| LATSANOPOULOS, Nicolás | | | | | |X | | |
+| LESBRE, Patrick |X |X |X | |X |X |X |X |
+| LÓPEZ OLIVA, Macarena | | | | | |X | | |
+| LÓPEZ ORTEGO, Cristina | |X |X |X |X |X |X |X |
+| MADAJCZAK, Julia | | |X | |X |X |X |X |
+| MARYNIAK, Joanna | | | | | | |X | |
+| MARTÍN GABALDÓN, Marta | | |X | |X | | | |
+| MARTÍNEZ, Leticia | | | | | |X | | |
+| MARTÍNEZ, Raymundo | | | | |X | | | |
+| MAZZETO, Elena | | | | | |X |X | |
+| MEGGED, Amos | | | | | | | |X |
+| MEJÍA, Karen Yvette | | | | | | | |X |
+| MIKULSKA, Katarzyna |X |X |X |X |X |X |X |X |
+| MONTORO, Glaucia | |X | | | | | |X |
+| OFFNER, Jerry | | | |X |X | | | |
+| OLKO, Justyna |X |X |X | | | |X | |
+| OUDIJK, Michel |X | | | |X | |X | |
+| PANTOJA, Adrián | | | | | |X | | |
+| PÉREZ, Lisardo | | | | | |X |X |X |
+| PERRI, Antonio |X | |X | | |X | | |
+| PREM, Haans |X | | | | | | | |
 | PUGLIESE, Fiona | | | | | | | | |
 | PUIG, Alberto | | | | | | | | |
 | RAGOT, Natalie | | | | | | | | |
