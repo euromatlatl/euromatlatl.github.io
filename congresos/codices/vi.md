@@ -27,7 +27,7 @@ tags: [sexto, congreso, códices]
 - Dr. Carlos Santamarina Novillo (Universidad Complutense de Madrid, España)
 
 
-## Participantes (alfabético)
+## Participantes (orden alfabético)
 
 - BAENA, Angélica (UNAM, México): *Las convenciones para representar el sacrificio en los códices del Grupo Borgia y los códices históricos mixtecos*
 
