@@ -6,6 +6,9 @@ cover-img: /assets/img/mendoza.jpg
 tags: [primer, congreso, códices]
 ---
 
+**Otros congresos** 
+**I** [II]() [III]() [IV]() [V]() [VI]() [VII]() [VIII]()
+
 [Ver Programa](/congresos/codices/i/docs/I-Congreso-2004.pdf)
 
 
