@@ -6,7 +6,7 @@ cover-img: /assets/img/mendoza.jpg
 tags: [histórico, congreso, códices]
 ---
 
-## Tabla de participantes (orden alfabético)
+## Histórico (orden alfabético)
 <br/>
 
 | Participante |I|II|III|IV|V|VI|VII|VIII|
