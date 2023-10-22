@@ -31,10 +31,10 @@ navbar-links:
     - VII Congreso de Códices: "/congresos/codices/vii"
     - VIII Congreso de Códices: "/congresos/codices/viii"
   Divulgación:
-    - Publicaciones: "/recursos/publicaciones"
-    - Materiales didácticos: "/recursos/materiales"
-    - Instituciones: "/recursos/instituciones"
-    - Otros enlaces: "/recursos/otros"
+    - Publicaciones: "/divulga/publicaciones"
+    - Materiales didácticos: "/divulga/materiales"
+    - Instituciones: "/divulga/instituciones"
+    - Otros enlaces: "/divulga/otros"
   ¿Quiénes somos?: "acercade"
 
 ################
