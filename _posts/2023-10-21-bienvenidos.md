@@ -2,9 +2,9 @@
 layout: post
 title: ¡Bienvenidos!
 subtitle: Red Europea EUROMATLATL
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/mendoza.jpg
 thumbnail-img: /assets/img/euromatlatl-tlacuilo.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/mendoza.jpg
 tags: [bienvenidos, red, europea, investigación, códices, mesoamérica, euromatlatl]
 comments: true
 ---
