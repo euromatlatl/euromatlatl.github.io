@@ -2,7 +2,6 @@
 layout: page
 title: Nuestra historia
 subtitle: Antecedentes
-cover-img: /assets/img/collage.jpg
 ---
 
 
