@@ -6,6 +6,8 @@ cover-img: /assets/img/mendoza.jpg
 tags: [histórico, congreso, códices]
 ---
 
+## Tabla de participantes (orden alfabético)
+
 | Participante |I|II|III|IV|V|VI|VII|VIII|
 | :----------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | AGUILAR, Manuel | | | | | | |X | |
