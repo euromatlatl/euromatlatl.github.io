@@ -90,7 +90,7 @@ tags: [histórico, congreso, códices]
 | VALENCIA, Rogelio | | | | | |X |X |X |
 | VALVERDE, Consuelo | | | | | | |X | |
 | VAUZELE, Loïc | | | | | |X | | |
-| WHITAKKER, Gordon | | | | |X |X |X |X |
+| WHITTAKER, Gordon | | | | |X |X |X |X |
 | WICHMANN, Sören |+ | | | | | | | |
 
 <br/>
