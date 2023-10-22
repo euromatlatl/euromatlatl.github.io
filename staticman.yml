@@ -27,7 +27,7 @@ comments:
   # file.
   branch: "master"   #  use "master" for user page or "gh-pages" for project pages
 
-  commitMessage: "New comment by {fields.name}"
+  commitMessage: "Nuevo comentario por {fields.name}"
 
   # (*) REQUIRED
   #
