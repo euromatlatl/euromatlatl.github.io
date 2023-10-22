@@ -21,6 +21,8 @@ tags: [sexto, congreso, códices]
  - Dr. José Luis de Rojas (Universidad Complutense de Madrid, España)
  - Dr. Miguel Ángel Ruz Barrio (El Colegio Mexiquense, A.C., México)
 
+<br/>
+
 ## Comité científico internacional  
 
 - Dra. Elizabeth Baquedano (University College London, Gran Bretaña)
@@ -28,6 +30,8 @@ tags: [sexto, congreso, códices]
 - Dr. Patrick Lesbre (Universidad de Toulouse, Francia)
 - Dra. Katarzyna Mikulska (Universidad de Varsovia, Polonia)
 - Dr. Carlos Santamarina Novillo (Universidad Complutense de Madrid, España)
+
+<br/>
 
 ## Participantes (orden alfabético)  
 
