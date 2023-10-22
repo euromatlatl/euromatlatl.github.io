@@ -7,7 +7,7 @@ tags: [sexto, congreso, códices]
 ---
 
 |**CONGRESO:**| [I](/congresos/codices/i) | [II](/congresos/codices/ii) | [III](/congresos/codices/iii) | [IV](/congresos/codices/iv) | [V](/congresos/codices/v) | **VI** | [VII](/congresos/codices/vii) | [VIII](/congresos/codices/viii) |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 
 {: .box-note}
 **[Ver Programa (cronológico)](/congresos/codices/vi/docs/VI-Simposio-2016.pdf)**
