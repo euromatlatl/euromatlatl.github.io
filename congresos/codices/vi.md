@@ -1,5 +1,5 @@
 ---
-layout: PAGE
+layout: page
 title: VI SIMPOSIO EUROPEO SOBRE CÓDICES DEL CENTRO DE MÉXICO
 subtitle: UCM, Madrid (14 al 16 de diciembre de 2016)
 cover-img: /assets/img/mendoza.jpg
