@@ -55,7 +55,7 @@ tags: [sexto, congreso, códices]
 
 - DOMENICI, Davide (Universidad de Bolonia): *Códices Mesoamericanos en la Italia de la primera Edad Moderna: historia y percepción*
 
-- DUPEY GARCÍA, Elodie (UNAM, Mexico) y FORDE, Jaime E. (University of Pennsylvania): *Andanzas de un códice prehispánico: las láminas repintadas del Códice Vaticano B*
+- DUPEY GARCÍA, Élodie (UNAM, Mexico) y FORDE, Jaime E. (University of Pennsylvania): *Andanzas de un códice prehispánico: las láminas repintadas del Códice Vaticano B*
 
 - GÓMEZ GARCÍA, Lidia E. y MARTÍNEZ PÉREZ, Leticia (Benemérita Universidad Autónoma de Puebla): *Los códices de San Pedro Cuaco, siglos XVI.XVIII*
 
