@@ -15,7 +15,7 @@
         {{ site.author }}
         &nbsp;&bull;&nbsp;
       {% endif %}
-      {{ site.time | date: '%Y' }}
+      {{ site.time | date: '2023-%Y' }}
 
       {% if site.url-pretty %}
         &nbsp;&bull;&nbsp;
@@ -33,12 +33,12 @@
 
       {% if site.edit_page_button and site.github.repository_url %}
         &nbsp;&bull;&nbsp;
-        <a title="Edit this page on GitHub" href="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}/{{ page.path }}" class="text_muted">Edit page</a>
+        <a title="Edite en GitHub" href="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}/{{ page.path }}" class="text_muted">Edit page</a>
        {% endif%}
 
       </p>
       {% unless site.remove-ads %}<p class="theme-by text-muted">
-        Powered by
+        #Powered by
         <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
       </p>{% endunless %}
       </div>
