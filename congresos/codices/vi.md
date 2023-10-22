@@ -108,4 +108,3 @@ tags: [sexto, congreso, códices]
 - VAUZELE, Loïc (Ecole Practice des Hautes Etudes, GSRL): *La polisemia gráfica en los códices adivinatorios*
 
 - WHITTAKER, Gordon (Universidad de Göttingen): *El español en los glifos nahuas*
-
