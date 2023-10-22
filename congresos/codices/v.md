@@ -19,10 +19,18 @@ tags: [quinto, congreso, códices]
 
  - Dr. Juan José Batalla Rosado (Universidad Complutense de Madrid, España)
  - Dr. José Luis de Rojas (Universidad Complutense de Madrid, España)
+ - Dr. Miguel Ángel Ruz Barrio (El Colegio Mexiquense, A.C, México)
 
 <br/>
 
 ## Comité científico internacional
+
+ - Dr. José Contel (Universidad de Toulouse, Francia)
+ - Dr. Patrick Lesbre (Universidad de Toulouse, Francia)
+ - Dra. Katarzyna Mikulska (Universidad de Varsovia, Polonia)
+ - Dra. Elizabeth Baquedano (Unniversity College London, Inglaterra)
+ - Dr. Carlos Santamarina Novillo (Universidad Complutense de Madrid, España)
+ - Dra. Isabel Bueno Bravo (Universidad Islas Baleares, España)
 
 <br/>
 
