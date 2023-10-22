@@ -1,13 +1,10 @@
 ---
 layout: page
-title: -VII CONGRESO INTERNACIONAL CÓDICES DEL CENTRO DE MÉXICO <br/><br/> (Homenaje al Dr. Alfonso Lacadena)  
+title: VII CONGRESO INTERNACIONAL CÓDICES DEL CENTRO DE MÉXICO (Homenaje al Dr. Alfonso Lacadena)
 subtitle: UCM, Madrid (17 al 19 de diciembre de 2018)
 cover-img: /assets/img/mendoza.jpg
 tags: [séptimo, congreso, códices]
 ---
->
- ## Homenaje al Dr. Alfonso Lacadena
->
 
 **CONGRESO:** [I](/congresos/codices/i) - [II](/congresos/codices/ii) - [III](/congresos/codices/iii) - [IV](/congresos/codices/iv) - [V](/congresos/codices/v) - [VI](/congresos/codices/vi) - **VII** - [VIII](/congresos/codices/viii)
 
