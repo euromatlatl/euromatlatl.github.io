@@ -9,7 +9,7 @@ tags: [histórico, congreso, códices]
 ## Histórico (orden alfabético)
 <br/>
 
-| Participante |I|II|III|IV|V|VI|VII|VIII|
+| Participante | [I](/congresos/codices/i) | [II](/congresos/codices/ii) | [III](/congresos/codices/iii) | [IV](/congresos/codices/iv) | [V](/congresos/codices/v) | [VI](/congresos/codices/vi) | [VII](/congresos/codices/vii) | [VIII](/congresos/codices/viii) |
 | :----------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | AGUILAR, Manuel | | | | | | |X | |
 | BAENA, Angélica | | | | | |X | | |
