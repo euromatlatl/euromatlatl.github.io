@@ -31,6 +31,7 @@ navbar-links:
     - VII Congreso de Códices: "/congresos/codices/vii"
     - VIII Congreso de Códices: "/congresos/codices/viii"
   Enlaces:
+    - Publicaciones: "/enlaces/publicaciones"
     - Materiales didácticos: "/enlaces/materiales"
     - Instituciones: "/enlaces/instituciones"
     - Otros enlaces: "/enlaces/otros"
