@@ -1,30 +1,24 @@
 ---
 layout: page
-title: I SIMPOSIO INTERNACIONAL SOBRE CÓDICES DEL CENTRO DE MÉXICO
-subtitle: UCM, Madrid (fecha)
+title: I SIMPOSIO EUROPEO DE CÓDICES DEL CENTRO DE MÉXICO
+subtitle: UCM, Madrid (28 al 30 de octubre de 2004)
 cover-img: /assets/img/mendoza.jpg
 tags: [primer, congreso, códices]
 ---
 
-[Ver Programa](/congresos/codices/i/docs/dummy.txt)
+[Ver Programa](/congresos/codices/i/docs/I-Congreso-2004.pdf)
 
 
 ## Organización
 
  - Dr. Juan José Batalla Rosado (Universidad Complutense de Madrid, España)
  - Dr. José Luis de Rojas (Universidad Complutense de Madrid, España)
- - Dr. Miguel Ángel Ruz Barrio (El Colegio Mexiquense, A.C., México)
+ - Dr. Carlos Santamarina Novillo (Universidad Complutense de Madrid, España)
 
 
 ## Comité científico internacional
 
-- Dra. Elizabeth Baquedano (University College London, Gran Bretaña)
-- Dr. José Contel (Universidad de Toulouse, Francia)
-- Dr. Patrick Lesbre (Universidad de Toulouse, Francia)
-- Dra. Katarzyna Mikulska (Universidad de Varsovia, Polonia)
-- Dr. Carlos Santamarina Novillo (Universidad Complutense de Madrid, España)
 
 
 ## Participantes (alfabético)
 
-- BAENA, Angélica (UNAM, México): *Las convenciones para representar el sacrificio en los códices del Grupo Borgia y los códices históricos mixtecos*
