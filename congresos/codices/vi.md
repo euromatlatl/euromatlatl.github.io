@@ -9,28 +9,27 @@ tags: [sexto, congreso, códices]
 |**CONGRESO:**| [I](/congresos/codices/i) | [II](/congresos/codices/ii) | [III](/congresos/codices/iii) | [IV](/congresos/codices/iv) | [V](/congresos/codices/v) | **VI** | [VII](/congresos/codices/vii) | [VIII](/congresos/codices/viii) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 
+<br/>
 {: .box-note}
 **[Ver Programa (cronológico)](/congresos/codices/vi/docs/VI-Simposio-2016.pdf)**
-
+<br/>
 
 ## Organización
-
+<br/>
  - Dr. Juan José Batalla Rosado (Universidad Complutense de Madrid, España)
  - Dr. José Luis de Rojas (Universidad Complutense de Madrid, España)
  - Dr. Miguel Ángel Ruz Barrio (El Colegio Mexiquense, A.C., México)
 
-
 ## Comité científico internacional
-
+<br/>
 - Dra. Elizabeth Baquedano (University College London, Gran Bretaña)
 - Dr. José Contel (Universidad de Toulouse, Francia)
 - Dr. Patrick Lesbre (Universidad de Toulouse, Francia)
 - Dra. Katarzyna Mikulska (Universidad de Varsovia, Polonia)
 - Dr. Carlos Santamarina Novillo (Universidad Complutense de Madrid, España)
 
-
 ## Participantes (orden alfabético)
-
+<br/>
 - BAENA, Angélica (UNAM, México): *Las convenciones para representar el sacrificio en los códices del Grupo Borgia y los códices históricos mixtecos*
 
 - BAQUEDANO, Elizabeth (Institute of Archeology, University College London): *El simbolismo de la soga (mecatl) en los códices del Grupo Borgia*
