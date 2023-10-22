@@ -47,7 +47,7 @@ tags: [séptimo, congreso, códices]
 
 - DEHOUVE, Danièle (Université Paris Nanterre-CNRS y EPHE Paris):*Cuatro deidades (Xiuhtecuhtli, Chalchiuhtlicue, Mayahuel y Xochiquetzal). Primera reflexión sobre el patrón de composición de las deidades en los códices Vaticano B y Borgia*
 
-- DOMENICI, Davide (Universidad de Bolonia) y DUPEY GARCÍA, Elodie (IIH, UNAM, México): *Análisis químicos sobre los materiales pictóricos del Códice Borgia: resultado e interpretaciones preliminares*
+- DOMENICI, Davide (Universidad de Bolonia) y DUPEY GARCÍA, Élodie (IIH, UNAM, México): *Análisis químicos sobre los materiales pictóricos del Códice Borgia: resultado e interpretaciones preliminares*
 
 - GONZÁLEZ CENTENO, Gregorio (UCM): *Los 'otros' códices falsos de Genaro López*
 
