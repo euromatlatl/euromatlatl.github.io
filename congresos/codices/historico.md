@@ -56,7 +56,7 @@ tags: [histórico, congreso, códices]
 | MARTÍN GABALDÓN, Marta | | |X | |X | | | |
 | MARTÍNEZ, Leticia | | | | | |X | | |
 | MARTÍNEZ, Raymundo | | | | |X | | | |
-| MAZZETO, Elena | | | | | |X |X | |
+| MAZZETTO, Elena | | | | | |X |X | |
 | MEGGED, Amos | | | | | | | |X |
 | MEJÍA, Karen Yvette | | | | | | | |X |
 | MIKULSKA, Katarzyna |X |X |X |X |X |X |X |X |
