@@ -73,7 +73,7 @@ tags: [sexto, congreso, códices]
 
 - MADAJCZAK, Julia (Universidad de Varsovia) y ROJAS, José Luis de (UCM): *El documento en náhuatl descubierto en Polonia: padrones de Morelos detrás del "Talón de Acero"*
 
-- MAZZATO, Elena (UNAM, México): *Las representaciones del maíz en los códices del Grupo Borgia*
+- MAZZETO, Elena (UNAM, México): *Las representaciones del maíz en los códices del Grupo Borgia*
 
 - MIKULSKA, Katarzyna (Universidad de Varsovia): *El Códice Vaticano B: nuevas perspectivas de estudio*
 
