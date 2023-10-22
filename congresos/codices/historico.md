@@ -77,7 +77,7 @@ tags: [histórico, congreso, códices]
 | ROJAS, Teresa | | | |X |X | | | |
 | ROSADO, Javier | | | | |X |X |X | |
 | ROSKAMP, Hans | | | | | |X | | |
-| RUBIA, Isabel de | | | | |X |X | |X |
+| RUBIA, Isabel de la | | | | |X |X | |X |
 | RUDKA, Aleksandra | | | |X | | | | |
 | RUIZ ORTIZ, Victor Hugo | |X | | | | | | |
 | RUZ, Miguel Ángel |X |X |X |X |X |X |X |X |
