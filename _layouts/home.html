@@ -101,12 +101,12 @@ layout: page
 <ul class="pagination main-pager">
   {% if paginator.previous_page %}
   <li class="page-item previous">
-    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Entradas recientes</a>
+    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Más Recientes</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="page-item next">
-    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">Entradas antiguas &rarr;</a>
+    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">Más Antiguas &rarr;</a>
   </li>
   {% endif %}
 </ul>
