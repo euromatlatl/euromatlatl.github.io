@@ -26,7 +26,7 @@ tags: [histórico, congreso, códices]
 | DÍAZ, Ana Guadalupe | | | |X | | | | |
 | DOESBURG, Sebastian van | | | | | | |+ | |
 | DOMENICI, Davide | | | | | |X |X | |
-| DUPEY, Elodie | | | | | |X |X |X |
+| DUPEY, Élodie | | | | | |X |X |X |
 | GAILLEMIN, Berenice | | |X | |X | | | |
 | GALENDE, Juan Carlos |X | | | | | | | |
 | GARCÍA CASTRO, René | | |X | | | | | |
