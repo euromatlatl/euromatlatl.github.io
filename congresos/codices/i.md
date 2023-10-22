@@ -11,7 +11,7 @@ tags: [primer, congreso, códices]
 <br/>
 
 {: .box-note}
-[Ver Programa](/congresos/codices/i/docs/I-Congreso-2004.pdf)
+[Ver Programa (cronológico)](/congresos/codices/i/docs/I-Congreso-2004.pdf)
 
 <br/>
 
@@ -28,5 +28,5 @@ tags: [primer, congreso, códices]
 
 <br/>
 
-## Participantes (alfabético)
+## Participantes (orden alfabético)
 
