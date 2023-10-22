@@ -1,10 +1,9 @@
 ---
 layout: page
-title: I Congreso Internacional Códices del Centro de México
-subtitle: Universidad Complutense de Madrid (fecha)
+title: I SIMPOSIO INTERNACIONAL SOBRE CÓDICES DEL CENTRO DE MÉXICO
+subtitle: UCM, Madrid (fecha)
 cover-img: /assets/img/mendoza.jpg
 tags: [primer, congreso, códices]
-comments: true
 ---
 
 [Ver Programa](/congresos/codices/i/docs/dummy.txt)
