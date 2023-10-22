@@ -27,7 +27,7 @@
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         <div class="{{ include.type }}-heading">
-          <h1>{% if page.title %}{{ page.title | strip_html }}{% else %}<br/>{% endif %}</h1>
+          <h2>{% if page.title %}{{ page.title | strip_html }}{% else %}<br/>{% endif %}</h2>
           {% if page.subtitle %}
             {% if include.type == "page" %}
               <hr class="small">
@@ -42,7 +42,7 @@
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
-                Last updated {{ page.last-updated | date: date_format }}
+                Editado el {{ page.last-updated | date: date_format }}
               </span>
             {% endif %}
             {% if page.readtime %}
@@ -76,7 +76,7 @@
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
-                Last updated {{ page.last-updated | date: date_format }}
+                Editado el {{ page.last-updated | date: date_format }}
               </span>
             {% endif %}
             {% if page.readtime %}
