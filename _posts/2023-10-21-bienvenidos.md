@@ -5,7 +5,7 @@ subtitle: Red Europea EUROMATLATL
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/euromatlatl-tlacuilo.png
 share-img: /assets/img/path.jpg
-tags: [bienvenidos, red, europea, investigación, códices, euromatlatl]
+tags: [bienvenidos, red, europea, investigación, códices, mesoamérica, euromatlatl]
 comments: true
 ---
 
