@@ -30,10 +30,10 @@ navbar-links:
     - VI Congreso de Códices: "/congresos/codices/vi"
     - VII Congreso de Códices: "/congresos/codices/vii"
     - VIII Congreso de Códices: "/congresos/codices/viii"
-  Otros Enlaces:
-    - Institucionales: ""
-    - Material didáctico: ""
-    - Enlaces de interés: ""
+  Enlaces:
+    - Institucionales: "/enlaces/institucionales"
+    - Materiales didácticos: "/enlaces/materiales"
+    - Otros enlaces: "/enlaces/otros"
   ¿Quiénes somos?: "acercade"
 
 ################
