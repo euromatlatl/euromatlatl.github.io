@@ -90,5 +90,9 @@ tags: [histórico, congreso, códices]
 | WHITAKKER, Gordon | | | | |X |X |X |X |
 | WICHMANN, Sören |+ | | | | | | | |
 
-
+{: .box-note}
+**LEYENDA:**
+**X**: Ponente
+**+**: En co-autoría
+**O**: Solo como organizador
 
