@@ -11,7 +11,7 @@ tags: [primer, congreso, códices]
 <br/>
 
 {: .box-note}
-[Ver Programa (cronológico)](/congresos/codices/i/docs/I-Congreso-2004.pdf)
+**[Ver Programa (cronológico)](/congresos/codices/i/docs/I-Congreso-2004.pdf)**
 
 <br/>
 
@@ -19,7 +19,6 @@ tags: [primer, congreso, códices]
 
  - Dr. Juan José Batalla Rosado (Universidad Complutense de Madrid, España)
  - Dr. José Luis de Rojas (Universidad Complutense de Madrid, España)
- - Dr. Carlos Santamarina Novillo (Universidad Complutense de Madrid, España)
 
 <br/>
 
