@@ -6,31 +6,25 @@ cover-img: /assets/img/mendoza.jpg
 tags: [séptimo, congreso, códices]
 ---
 
-**CONGRESO:** [I](/congresos/codices/i) - [II](/congresos/codices/ii) - [III](/congresos/codices/iii) - [IV](/congresos/codices/iv) - [V](/congresos/codices/v) - [VI](/congresos/codices/vi) - **VII** - [VIII](/congresos/codices/viii)
+| **CONGRESO:** | [I](/congresos/codices/i) | [II](/congresos/codices/ii) | [III](/congresos/codices/iii) | [IV](/congresos/codices/iv) | [V](/congresos/codices/v) | [VI](/congresos/codices/vi) | **VII** | [VIII](/congresos/codices/viii) |
 
-[Ver Programa](/congresos/codices/vii/docs/VII-Congreso-2018.pdf)
+<br/>
 
+{: .box-note}
+**[Ver Programa (cronológico)](/congresos/codices/vii/docs/VII-Congreso-2018.pdf)**
+
+<br/>
 
 ## Organización
 
-
  - Dr. Juan José Batalla Rosado (Universidad Complutense de Madrid, España)
  - Dr. José Luis de Rojas (Universidad Complutense de Madrid, España)
- - Dr. Miguel Ángel Ruz Barrio (El Colegio Mexiquense, A.C., México)
 
-
+<br/>
 
 ## Comité científico internacional
 
+<br/>
 
-- Dra. Elizabeth Baquedano (University College London, Gran Bretaña)
-- Dr. José Contel (Universidad de Toulouse, Francia)
-- Dr. Patrick Lesbre (Universidad de Toulouse, Francia)
-- Dra. Katarzyna Mikulska (Universidad de Varsovia, Polonia)
-- Dr. Carlos Santamarina Novillo (Universidad Complutense de Madrid, España)
+## Participantes (orden alfabético)
 
-
-## Participantes (alfabético)
-
-
-- BAENA, Angélica (UNAM, México): *Las convenciones para representar el sacrificio en los códices del Grupo Borgia y los códices históricos mixtecos*
