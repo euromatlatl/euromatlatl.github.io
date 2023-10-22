@@ -65,30 +65,30 @@ tags: [histórico, congreso, códices]
 | PÉREZ, Lisardo | | | | | |X |X |X |
 | PERRI, Antonio |X | |X | | |X | | |
 | PREM, Haans |X | | | | | | | |
-| PUGLIESE, Fiona | | | | | | | | |
-| PUIG, Alberto | | | | | | | | |
-| RAGOT, Natalie | | | | | | | | |
-| RAIMÚNDEZ, Zoraida | | | | | | | | |
-| RODRIGUEZ, Mª Josefa | | | | | | | | |
-| ROJAS, José Luis de | | | | | | | | |
-| ROJAS, Teresa | | | | | | | | |
-| ROSADO, Javier | | | | | | | | |
-| ROSKAMP, Hans | | | | | | | | |
-| RUBIA, Isabel de | | | | | | | | |
-| RUDKA, Aleksandra | | | | | | | | |
-| RUIZ ORTIZ, Victor Hugo | | | | | | | | |
-| RUZ, Miguel Ángel | | | | | | | | |
-| SÁNCHEZ, Lisette | | | | | | | | |
-| SANTAMARINA, Carlos | | | | | | | | |
-| SULLIVAN, John | | | | | | | | |
-| SZOBLIK, Katarzyna | | | | | | | | |
-| TAMBURRINI, Davide | | | | | | | | |
-| VALDEZ, Tatiana | | | | | | | | |
-| VALENCIA, Rogelio | | | | | | | | |
-| VALVERDE, Consuelo | | | | | | | | |
-| VAUZELE, Loïc | | | | | | | | |
-| WHITAKKER, Gordon | | | | | | | | |
-| WICHMANN, Sören | | | | | | | | |
+| PUGLIESE, Fiona | | | | | | | |X |
+| PUIG, Alberto | | | | | | |X |X |
+| RAGOT, Natalie | | |X | | | | | |
+| RAIMÚNDEZ, Zoraida | | | | | |X |X |X |
+| RODRIGUEZ, Mª Josefa | |X |X | |X |X |X | |
+| ROJAS, José Luis de |X |X |O |O |X |O |O |X |
+| ROJAS, Teresa | | | |X |X | | | |
+| ROSADO, Javier | | | | |X |X |X | |
+| ROSKAMP, Hans | | | | | |X | | |
+| RUBIA, Isabel de | | | | |X |X | |X |
+| RUDKA, Aleksandra | | | |X | | | | |
+| RUIZ ORTIZ, Victor Hugo | |X | | | | | | |
+| RUZ, Miguel Ángel |X |X |X |X |X |X |X |X |
+| SÁNCHEZ, Lisette | | | | |X | | | |
+| SANTAMARINA, Carlos |X |X |X | |X |X | |X |
+| SULLIVAN, John | | | | | | |X | |
+| SZOBLIK, Katarzyna | | | | |X |X | |X |
+| TAMBURRINI, Davide | | | | | | | |X |
+| VALDEZ, Tatiana | | | | |X | | | |
+| VALENCIA, Rogelio | | | | | |X |X |X |
+| VALVERDE, Consuelo | | | | | | |X | |
+| VAUZELE, Loïc | | | | | |X | | |
+| WHITAKKER, Gordon | | | | |X |X |X |X |
+| WICHMANN, Sören |+ | | | | | | | |
 
 
 
