@@ -11,7 +11,7 @@ tags: [tercer, congreso, códices]
 <br/>
 
 {: .box-note}
-**[Ver Programa (cronológico)](/congresos/codices/iii/docs/dummy.txt)**
+**[Ver Programa (cronológico)](/congresos/codices/iii/docs/III-Congreso-2012.pdf)**
 
 <br/>
 
