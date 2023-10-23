@@ -18,7 +18,7 @@ tags: [tercer, congreso, códices]
 ## Organización
 
  - Dr. Juan José Batalla Rosado (Universidad Complutense de Madrid, España)
- - Dr. Carlos Santamarina Novillo (Universidad Complutense de Madrid, España)
+ - Dr. Miguel Ángel Ruz Barrio (Universidad Complutense de Madrid, España)
 
 <br/>
 
