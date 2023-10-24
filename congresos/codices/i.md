@@ -29,3 +29,32 @@ tags: [primer, congreso, códices]
 
 ## Participantes (orden alfabético)
 
+- BATALLA, Juan José (UCM) y OUDIJK, Michel (INAH): *El Códice Cuevas (AGI-Sevilla): denuncia de los naturales de Tenayuca contra Francisco Rodríguez Magariño*
+
+- BATALLA, Juan José (UCM) y ROJAS, José Luis de (UCM): *Las cuentas ocultas de los tributos: la Matrícula de Tributos y el Códice Mendoza*
+
+- BATALLA, Juan José (UCM): *Los códices mesoamericanos como fuente para el conocimiento de la Historia Prehispánica y Colonial del México Central*
+
+- CASTAÑEDA, María (Universidad de Sevilla): *De la pictografía a la escritura: análisis comparativo del Grupo del Códice Boturini*
+
+- GALENDE, Juan Carlos (UCM): *Estudio Paleográfico del Códice Durán*
+
+- GENOTTE, Jean-François (Universidad de París): *Problemas de aculturación en el Códice Azcatitlan: representación del volumen y el espacio*
+
+- HERNÁNDEZ, Gilda (Universidad de Leiden): *Las vasijas tipo códice del estilo Mixteca-Puebla*
+
+- LACADENA, Alfonso (UCM) y WICHMANN, Soren (Universidad de Copenhague): *Longitud vocálica y glotalización en la escritura náhuatl*
+
+- LESBRE, Patrick (Universidad de Toulouse): *Influencias Occidentales en el Mapa de Quinatzin*
+
+- MIKULSKA, Katarzyna (Universidad de Varsovia): *El concepto de ilhuicatl en la cosmovisión nahua y sus representaciones gráficas en los códices*
+
+- OLKO, Justyna (Universidad de Varsovia): *Convenciones regionales y estrategias en la iconografía del poder de las élites del siglo XVI a través del contenido de los códices*
+
+- PERRI, Antonio (Universidad de Roma): *Los ff. 44r y 44v del Codex Telleriano-Remensis y la historia colonial de los mexicas*
+
+- PREM, Hanns (Universidad de Bonn): *Consistencia sistemática de la escritura nahuatl*
+
+- RUZ, Miguel Ángel (UCM): *La importancia del estudio codicológico de los códices: la copia 35-57 del Códice de Cholula*
+
+- SANTAMARINA, Carlos (UCM): *El Imperio Tepaneca en el Códice García Granados*
