@@ -3,7 +3,7 @@ layout: page
 title: Lisardo Pérez Lugones
 subtitle: Universidad Complutense de Madrid
 ---
-![PerezLugonesLisardo](/bio/img/PerezLugonesLisardo.jpg)
+![PerezLugonesLisardo](/bio/img/PerezLugonesLisardo.jpg){: .mx-auto.d-block :}
 
 **Bio:**
 
