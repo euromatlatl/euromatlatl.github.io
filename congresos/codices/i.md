@@ -29,11 +29,11 @@ tags: [primer, congreso, códices]
 
 ## Participantes (orden alfabético)
 
+- BATALLA, Juan José (UCM): *Los códices mesoamericanos como fuente para el conocimiento de la Historia Prehispánica y Colonial del México Central*
+
 - BATALLA, Juan José (UCM) y OUDIJK, Michel (INAH): *El Códice Cuevas (AGI-Sevilla): denuncia de los naturales de Tenayuca contra Francisco Rodríguez Magariño*
 
 - BATALLA, Juan José (UCM) y ROJAS, José Luis de (UCM): *Las cuentas ocultas de los tributos: la Matrícula de Tributos y el Códice Mendoza*
-
-- BATALLA, Juan José (UCM): *Los códices mesoamericanos como fuente para el conocimiento de la Historia Prehispánica y Colonial del México Central*
 
 - CASTAÑEDA, María (Universidad de Sevilla): *De la pictografía a la escritura: análisis comparativo del Grupo del Códice Boturini*
 
