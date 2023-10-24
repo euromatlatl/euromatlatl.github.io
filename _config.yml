@@ -31,6 +31,7 @@ navbar-links:
     - VII Congreso de Códices: "/congresos/codices/vii"
     - VIII Congreso de Códices: "/congresos/codices/viii"
   Divulgación:
+    - Tesis doctorales: "divulga/tesis"
     - Publicaciones: "/divulga/publicaciones"
     - Materiales didácticos: "/divulga/materiales"
     - Instituciones: "/divulga/instituciones"
