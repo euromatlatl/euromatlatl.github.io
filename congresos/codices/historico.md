@@ -65,7 +65,7 @@ tags: [histórico, congreso, códices]
 | OLKO, Justyna |X |X |X | | | |X | |
 | OUDIJK, Michel |X | | | |X | |X | |
 | PANTOJA, Adrián | | | | | |X | | |
-| PÉREZ, Lisardo | | | | | |X |X |X |
+| [PÉREZ, Lisardo](/bio/PerezLugonesLisardo) | | | | | |X |X |X |
 | PERRI, Antonio |X | |X | | |X | | |
 | PREM, Haans |X | | | | | | | |
 | PUGLIESE, Fiona | | | | | | | |X |
