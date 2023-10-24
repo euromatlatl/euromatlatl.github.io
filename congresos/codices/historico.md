@@ -59,7 +59,7 @@ tags: [histórico, congreso, códices]
 | MAZZETTO, Elena | | | | | |X |X | |
 | MEGGED, Amos | | | | | | | |X |
 | MEJÍA, Karen Yvette | | | | | | | |X |
-| MIKULSKA, Katarzyna |X |X |X |X |X |X |X |X |
+| [MIKULSKA, Katarzyna](/bio/MikulskaKatarzyna) |X |X |X |X |X |X |X |X |
 | MONTORO, Glaucia | |X | | | | | |X |
 | OFFNER, Jerry | | | |X |X | | | |
 | OLKO, Justyna |X |X |X | | | |X | |
