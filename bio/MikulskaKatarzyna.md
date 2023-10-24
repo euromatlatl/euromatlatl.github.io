@@ -3,7 +3,7 @@ layout: page
 title: Katarzyna Mikulska
 subtitle: Instytut Studiów Iberyjskich i Iberoamerykańskich, Uniwersytetu Warszawskiego
 ---
-![uni](/bio/img/UniversidadVarsovia.png)
+![uni](/bio/img/UniversidadVarsovia.png){: .mx-auto.d-block :}
 
 **Bio:**
 
