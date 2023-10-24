@@ -11,15 +11,15 @@ tags: [histórico, congreso, códices]
 
 | Participante | [I](/congresos/codices/i) | [II](/congresos/codices/ii) | [III](/congresos/codices/iii) | [IV](/congresos/codices/iv) | [V](/congresos/codices/v) | [VI](/congresos/codices/vi) | [VII](/congresos/codices/vii) | [VIII](/congresos/codices/viii) |
 | :----------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| AGUILAR, Manuel | | | | | | |X | |
+| AGUILAR-MORENO, Manuel | | | | | | |X | |
 | BAENA, Angélica | | | | | |X | | |
 | BAQUEDANO, Elizabeth | |X |X | |X |X | | |
-| BATALLA, Juan José |X |X |X |X |X |X |X |X |
-| BOSQUE, Cristina | | | | |X |X |X |X |
+| BATALLA ROSADO, Juan José |X |X |X |X |X |X |X |X |
+| BOSQUE CANTÓN, Cristina | | | | |X |X |X |X |
 | BROKAW, Galen | | | | | | | |X |
 | BRYLAK, Agnieszka | |X | |X |X |X |X |X |
-| BUENO, Isabel | |X |X |X |X |X |X |X |
-| CASTAÑEDA, María |X | | | | |X |X | |
+| BUENO BRAVO, Isabel | |X |X |X |X |X |X |X |
+| CASTAÑEDA DE LA PAZ, María |X | | | | |X |X | |
 | CHUCHIAK, John | | | | | | | |+ |
 | DAVLETSIN, Albert | | | | | |X | |+ |
 | DÉHOUVE, Danièle | | | | | |X |X | |
@@ -34,7 +34,7 @@ tags: [histórico, congreso, códices]
 | GAJEWSKA, Marta | | | | |X | | | |
 | GÓMEZ, Lidia | | | | | |X | | |
 | GONZÁLEZ, Gerardo | | | |X | | | | |
-| GONZÁLEZ, Gregorio | | | | | |X |X | |
+| GONZÁLEZ CENTENO, Gregorio | | | | | |X |X | |
 | GONZÁLEZ, Sara | | | | | | |X | |
 | GRAULICH, Michel |X | | | | | | | |
 | GRUDA, Szymon | | | | | | |+ | |
@@ -42,11 +42,11 @@ tags: [histórico, congreso, códices]
 | HERRERA, José Ignacio | | | | | |X | | |
 | JAGODZYNSKI, Kajetan | | | | | |X |X | |
 | JANSEN, Maarten | |X | | | | | | |
-| JAQUÍN, Mª Teresa | | |X |X |X |X | |X |
+| JARQUÍN ORTEGA, Mª Teresa | | |X |X |X |X | |X |
 | KÖHLER, Remy | | | | | | |X | |
 | KOWALCZYK, Justina | | | | | |X |X |X |
 | KUBIAK, Ewa | | | | | |+ | | |
-| LACADENA, Alfonso |X |X | | | |X | | |
+| LACADENA GARCÍA-GALLO, Alfonso |X |X | | | |X | | |
 | LATSANOPOULOS, Nicolás | | | | | |X | | |
 | LESBRE, Patrick |X |X |X | |X |X |X |X |
 | LÓPEZ OLIVA, Macarena | | | | | |X | | |
@@ -65,24 +65,24 @@ tags: [histórico, congreso, códices]
 | OLKO, Justyna |X |X |X | | | |X | |
 | OUDIJK, Michel |X | | | |X | |X | |
 | PANTOJA, Adrián | | | | | |X | | |
-| [PÉREZ, Lisardo](/bio/PerezLugonesLisardo) | | | | | |X |X |X |
+| [PÉREZ LUGONES, Lisardo](/bio/PerezLugonesLisardo) | | | | | |X |X |X |
 | PERRI, Antonio |X | |X | | |X | | |
 | PREM, Haans |X | | | | | | | |
 | PUGLIESE, Fiona | | | | | | | |X |
-| PUIG, Alberto | | | | | | |X |X |
+| PUIG CARRASCO, Alberto | | | | | | |X |X |
 | RAGOT, Natalie | | |X | | | | | |
-| RAIMÚNDEZ, Zoraida | | | | | |X |X |X |
-| RODRIGUEZ, Mª Josefa | |X |X | |X |X |X | |
+| RAIMÚNDEZ ARES, Zoraida | | | | | |X |X |X |
+| RODRÍGUEZ RODRÍGUEZ, Mª Josefa | |X |X | |X |X |X | |
 | ROJAS, José Luis de |X |X |O |O |X |O |O |X |
 | ROJAS, Teresa | | | |X |X | | | |
-| ROSADO, Javier | | | | |X |X |X | |
+| ROSADO PASCUAL, Javier | | | | |X |X |X | |
 | ROSKAMP, Hans | | | | | |X | | |
-| RUBIA, Isabel de la | | | | |X |X | |X |
+| RUBIA RIVAS, Isabel de la | | | | |X |X | |X |
 | RUDKA, Aleksandra | | | |X | | | | |
 | RUIZ ORTIZ, Victor Hugo | |X | | | | | | |
-| RUZ, Miguel Ángel |X |X |X |X |X |X |X |X |
+| RUZ BARRIO, Miguel Ángel |X |X |X |X |X |X |X |X |
 | SÁNCHEZ, Lisette | | | | |X | | | |
-| SANTAMARINA, Carlos |X |X |X | |X |X | |X |
+| SANTAMARINA NOVILLO, Carlos |X |X |X | |X |X | |X |
 | SULLIVAN, John | | | | | | |X | |
 | SZOBLIK, Katarzyna | | | | |X |X | |X |
 | TAMBURRINI, Davide | | | | | | | |X |
