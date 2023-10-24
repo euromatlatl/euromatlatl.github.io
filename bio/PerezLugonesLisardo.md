@@ -6,4 +6,4 @@ subtitle: Universidad Complutense de Madrid
 
 Bio:
 
-[!img](/bio/img/PerezLugonesLisardo.jpg)
+![PerezLugonesLisardo](/bio/img/PerezLugonesLisardo.jpg)
