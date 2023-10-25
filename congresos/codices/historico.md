@@ -27,7 +27,7 @@ tags: [histórico, congreso, códices]
 | DOESBURG, Sebastian van | | | | | | |+ | |
 | DOMENICI, Davide | | | | | |X |X | |
 | DUPEY, Élodie | | | | | |X |X |X |
-| GAILLEMIN, Berenice | | |X | |X | | | |
+| GAILLEMÍN, Bérénice | | |X | |X | | | |
 | GALENDE, Juan Carlos |X | | | | | | | |
 | GARCÍA CASTRO, René | | |X | | | | | |
 | GENOTTE, Jean-François |X | | | | | | | |
