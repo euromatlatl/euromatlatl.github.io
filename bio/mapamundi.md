@@ -2,7 +2,7 @@
 layout: page
 title: Mapa de distribución
 subtitle: Lore Ipsum
-cover-img: /assets/img/mapamundi.jpg
+cover-img: /assets/img/mapamundibanner.jpg
 ---
 
 **Lore ipsum**
