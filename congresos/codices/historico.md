@@ -46,7 +46,7 @@ tags: [histórico, congreso, códices]
 | KÖHLER, Remy | | | | | | |X | |
 | KOWALCZYK, Justina | | | | | |X |X |X |
 | KUBIAK, Ewa | | | | | |+ | | |
-| LACADENA GARCÍA-GALLO, Alfonso |X |X | | | |X | | |
+| LACADENA, Alfonso |X |X | | | |X | | |
 | LATSANOPOULOS, Nicolás | | | | | |X | | |
 | LESBRE, Patrick |X |X |X | |X |X |X |X |
 | LÓPEZ OLIVA, Macarena | | | | | |X | | |
