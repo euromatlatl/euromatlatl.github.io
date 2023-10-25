@@ -72,7 +72,7 @@ tags: [histórico, congreso, códices]
 | PUIG CARRASCO, Alberto | | | | | | |X |X |
 | RAGOT, Natalie | | |X | | | | | |
 | RAIMÚNDEZ ARES, Zoraida | | | | | |X |X |X |
-| RODRÍGUEZ RODRÍGUEZ, Mª Josefa | |X |X | |X |X |X | |
+| RODRÍGUEZ, Mª Josefa | |X |X | |X |X |X | |
 | ROJAS, José Luis de |X |X |O |O |X |O |O |X |
 | ROJAS, Teresa | | | |X |X | | | |
 | ROSADO PASCUAL, Javier | | | | |X |X |X | |
