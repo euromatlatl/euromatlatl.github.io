@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **Publicaciones**
 
-- 2023, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+- 2023, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua[^1]
 
 - 2021, "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
 
@@ -21,3 +21,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <a href="https://www.freepik.com/free-vector/profile-icons-pack-hand-drawn-style_18156023.htm#query=profile&position=0&from_view=keyword&track=sph">Image by pikisuperstar</a> on Freepik
+
+[^1]: Nota al pie
