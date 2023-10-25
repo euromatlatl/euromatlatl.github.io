@@ -10,7 +10,7 @@ tags: [histórico, congreso, códices]
 <br/>
 
 | Participante | [I](/congresos/codices/i) | [II](/congresos/codices/ii) | [III](/congresos/codices/iii) | [IV](/congresos/codices/iv) | [V](/congresos/codices/v) | [VI](/congresos/codices/vi) | [VII](/congresos/codices/vii) | [VIII](/congresos/codices/viii) |
-| :----------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :------------------------------ | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | AGUILAR-MORENO, Manuel | | | | | | |X | |
 | BAENA, Angélica | | | | | |X | | |
 | BAQUEDANO, Elizabeth | |X |X | |X |X | | |
