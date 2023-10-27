@@ -38,11 +38,11 @@ navbar-links:
     - Otros enlaces: "/divulga/otros"
   ¿Quiénes somos?: "acercade"
   Mapa: "/bio/mapamundi"
-  א 🗣 :
-      - ESP :
-      - ENG :
-      - PLN :
-      - FRA :
+  🗣 :
+      - ES : ""
+      - EN : "ENG"
+      - PL : "PLN"
+      - FR : "FRA"
 
 ################
 # --- Logo --- #
