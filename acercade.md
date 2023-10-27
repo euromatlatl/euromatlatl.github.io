@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Nuestra historia
-subtitle: Antecedentes
+title: ¿Quiénes somos?
+subtitle: Nuestra historia
 ---
 
 ![collage](/assets/img/collage.jpg){: .mx-auto.d-block :}
