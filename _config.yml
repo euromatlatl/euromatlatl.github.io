@@ -38,7 +38,7 @@ navbar-links:
     - Otros enlaces: "/divulga/otros"
   ¿Quiénes somos?: "acercade"
   Mapa: "/bio/mapamundi"
-  Hi:
+  ![language](/assets/img/language.png) :
       - ESP :
       - ENG :
       - PLN :
