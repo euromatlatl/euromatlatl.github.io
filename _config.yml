@@ -38,6 +38,11 @@ navbar-links:
     - Otros enlaces: "/divulga/otros"
   ¿Quiénes somos?: "acercade"
   Mapa: "/bio/mapamundi"
+  :speaking_head:
+      - :es:
+      - :en:
+      - :pl:
+      - :fr:
 
 ################
 # --- Logo --- #
