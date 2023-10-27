@@ -19,4 +19,3 @@ cover-img: /assets/img/mapamundibanner.jpg
 - 1
 - 2
 - 3
-
