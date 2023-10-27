@@ -4,6 +4,7 @@ title: Nuestra historia
 subtitle: Antecedentes
 ---
 
+🗣️
 
 ![collage](/assets/img/collage.jpg){: .mx-auto.d-block :}
 
