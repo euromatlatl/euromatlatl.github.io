@@ -5,6 +5,18 @@ subtitle: Lore Ipsum
 cover-img: /assets/img/mapamundibanner.jpg
 ---
 
-**Lore ipsum**
+**ESPAÑA**
+- 1
+- 2
+- 3
 
-![mapamundi](/assets/img/mapamundi.jpg)
+**FRANCIA**
+- 1
+- 2
+- 3
+
+**POLONIA**
+- 1
+- 2
+- 3
+
