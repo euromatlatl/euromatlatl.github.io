@@ -1,6 +1,6 @@
 ---
 layout: page
-title: O nas?
+title: Kim jesteśmy
 subtitle: Nasza historia
 ---
 
