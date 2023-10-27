@@ -36,8 +36,8 @@ navbar-links:
     - Materiales didácticos: "/divulga/materiales"
     - Instituciones: "/divulga/instituciones"
     - Otros enlaces: "/divulga/otros"
-  ¿Quiénes somos?: "acercade"
   Mapa: "/bio/mapamundi"
+  (?): "acercade"
   🗣 :
       - ES : ""
       - EN : "ENG"
