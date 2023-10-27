@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Nasza historia
-subtitle: Tło
+title: O nas?
+subtitle: Nasza historia
 ---
 
 ![collage](/assets/img/collage.jpg){: .mx-auto.d-block :}
