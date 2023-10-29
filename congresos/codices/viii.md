@@ -72,7 +72,7 @@ tags: [octavo, congreso, códices]
 
 - RUZ BARRIO, Miguel Ángel (UCM): *La copia de códices mesoamericanos entre los siglos XVI-XVIII*
 
-- SANTAMARINA NOVILLO, Carlos (UCM): *En torno al Códice Xolotl: disfrasismos gráricos, discursos y otras expresiones pictoglíficas*
+- SANTAMARINA NOVILLO, Carlos (UCM): *En torno al Códice Xolotl: disfrasismos gráficos, discursos y otras expresiones pictoglíficas*
 
 - SZOBLIK, Katarzyn a (Universidad de Varsovia): *Las mujeres en el Códice Xolotl*
 
