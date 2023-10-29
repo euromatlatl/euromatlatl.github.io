@@ -18,4 +18,4 @@ tags: [enlaces, instuciones, organismos]
 
 - [Instituto de Estudios Ibéricos e Iberoamericanos](https://www.iberystyka.uw.edu.pl/es){:target="_blank"}, Universidad de Varsovia, Polonia
 
-- [IPEAT, Institut Pluridisciplinaire pour les Études sur les Amériques à Toulouse](https://ipeat.univ-tlse2.fr/){:target="_blank"}, Université Toulouse-Jean Jaurès, Francia
+- [IPEAT](https://ipeat.univ-tlse2.fr/){:target="_blank"}, Institut Pluridisciplinaire pour les Études sur les Amériques à Toulouse, Université Toulouse-Jean Jaurès, Francia
