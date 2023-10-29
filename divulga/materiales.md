@@ -81,7 +81,7 @@ tags: [materiales, didácticos, bibliografía]
 
 - [TELLERIANO-REMENSIS, Códice (Mexicain 385)](https://gallica.bnf.fr/ark:/12148/btv1b8458267s){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
-- [TEOCALTITLAN, Libro de tributos de San Pablo (Mexicain 376)](https://gallica.bnf.fr/ark:/12148/btv1b8455947h): Gallica-BnF (Bibliothèque nationale de France)
+- [TEOCALTITLAN, Libro de tributos de San Pablo (Mexicain 376)](https://gallica.bnf.fr/ark:/12148/btv1b8455947h){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 - [TEPECHPAN, Tira (Mexicain 13-14)](https://gallica.bnf.fr/ark:/12148/btv1b55005968w){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
@@ -99,7 +99,7 @@ tags: [materiales, didácticos, bibliografía]
 
 - [VATICANO A, Códice (Manuscrit Vat. lat. 3738) o Códice Ríos](https://digi.vatlib.it/view/MSS_Vat.lat.3738){:target="_blank"}: Biblioteca Apostólica Vaticana
 
-- [VERGARA, Códice (Mexicain 37-36) Document cadastral ou codex Vergara](https://gallica.bnf.fr/ark:/12148/btv1b6001176g){:target="_blank"} Gallica-BnF (Bibliothèque nationale de France)
+- [VERGARA, Códice (Mexicain 37-36) Document cadastral ou codex Vergara](https://gallica.bnf.fr/ark:/12148/btv1b6001176g){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 **W**
 
