@@ -10,7 +10,9 @@ tags: [materiales, didácticos, bibliografía]
 
 **A**
 
-- AUBIN, Códice (Mexicain 35-36)](https://gallica.bnf.fr/ark:/12148/btv1b8452802n){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [AUBIN, Códice (Mexicain 35-36)](https://www.britishmuseum.org/collection/object/E_Am2006-Drg-31219){:target="_blank"}: The British Museum, Londres, Inglaterra)
+
+- [AZCATITLAN, Códice de (Mexicain 59-64) Historie mexicane, dit 'Codex Azcatítlan'](https://gallica.bnf.fr/ark:/12148/btv1b84582686){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 **B**
 
@@ -38,11 +40,15 @@ tags: [materiales, didácticos, bibliografía]
 
 **K**
 
+- [KINGSBOROUGH, Códice (Memorial de los Indios de Tepetlaoztoc)](https://www.britishmuseum.org/collection/object/E_Am2006-Drg-13964){:target="_blank"}: The British Museum, Londres, Inglaterra)
+
 **L**
 
 **M**
 
-- [MENDOZA, Códice](https://digital.bodleian.ox.ac.uk/objects/2fea788e-2aa2-4f08-b6d9-648c00486220/surfaces/68210492-1fd1-499e-acee-188fa1226ca1){:target="_blank"}: Bodleian Library MS. Arch. Selden. A. 1, University of Oxford, Londres.
+- [MENDOZA, Códice](https://digital.bodleian.ox.ac.uk/objects/2fea788e-2aa2-4f08-b6d9-648c00486220/surfaces/68210492-1fd1-499e-acee-188fa1226ca1){:target="_blank"}: Bodleian Library MS. Arch. Selden. A. 1, University of Oxford, Inglaterra.
+
+- [MEXICANUS I, Códice (Mexicain 23-24)](https://gallica.bnf.fr/ark:/12148/btv1b55005834g){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 **N**
 
@@ -62,6 +68,8 @@ tags: [materiales, didácticos, bibliografía]
 
 - [TEPECHPAN, Tira (Mexicain 13-14)](https://gallica.bnf.fr/ark:/12148/btv1b55005968w){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
+- TEPETLAOZTOC, Códice de (ver KINGSBOROUGH, Códice)
+ 
 - [TOTOQUIHUAZTLI, Testamento de don Antonio (Mexicain 115) microfilm B/N](https://gallica.bnf.fr/ark:/12148/btv1b10087469k){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 **U**
