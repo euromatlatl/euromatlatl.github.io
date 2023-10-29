@@ -6,16 +6,10 @@ cover-img: /assets/img/mapamundibanner.jpg
 ---
 
 **ESPAÑA**
-- 1
-- 2
-- 3
+- Madrid
 
 **FRANCIA**
-- 1
-- 2
-- 3
+- Toulouse
 
 **POLONIA**
-- 1
-- 2
-- 3
+- Varsovia
