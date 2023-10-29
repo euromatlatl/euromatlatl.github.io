@@ -11,7 +11,7 @@ tags: [quinto, congreso, códices]
 <br/>
 
 {: .box-note}
-**[Ver Programa (cronológico)](/congresos/codices/v/docs/V-Congreso-2014.pdf)**
+**[Ver Programa (cronológico)](/congresos/codices/v/docs/V-Congreso-2014.pdf){:target="_blank"}**
 
 <br/>
 
