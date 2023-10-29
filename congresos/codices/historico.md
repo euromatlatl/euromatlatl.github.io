@@ -59,13 +59,13 @@ tags: [histórico, congreso, códices]
 | MAZZETTO, Elena | | | | | |X |X | |
 | MEGGED, Amos | | | | | | | |X |
 | MEJÍA, Karen Yvette | | | | | | | |X |
-| [MIKULSKA, Katarzyna](/bio/MikulskaKatarzyna) |X |X |X |X |X |X |X |X |
+| [MIKULSKA, Katarzyna](/bio/MikulskaKatarzyna){:target="_blank"} |X |X |X |X |X |X |X |X |
 | MONTORO, Glaucia | |X | | | | | |X |
 | OFFNER, Jerry | | | |X |X | | | |
 | OLKO, Justyna |X |X |X | | | |X | |
 | OUDIJK, Michel |X | | | |X | |X | |
 | PANTOJA, Adrián | | | | | |X | | |
-| [PÉREZ LUGONES, Lisardo](/bio/PerezLugonesLisardo) | | | | | |X |X |X |
+| [PÉREZ LUGONES, Lisardo](/bio/PerezLugonesLisardo){:target="_blank"} | | | | | |X |X |X |
 | PERRI, Antonio |X | |X | | |X | | |
 | PREM, Haans |X | | | | | | | |
 | PUGLIESE, Fiona | | | | | | | |X |
