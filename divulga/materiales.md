@@ -10,6 +10,8 @@ tags: [materiales, didácticos, bibliografía]
 
 **A**
 
+- AUBIN, Códice (Mexicain 35-36)](https://gallica.bnf.fr/ark:/12148/btv1b8452802n){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+
 **B**
 
 **C**
@@ -23,6 +25,8 @@ tags: [materiales, didácticos, bibliografía]
 - [FRAGMENT DE L'HISTORIE DES ANCIENTS MEXICAINS (Mexicain 85)](https://gallica.bnf.fr/ark:/12148/btv1b8458438r){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
  
 **G**
+
+- [PRÍNCIPES MEXICANOS, Genealogía de (Mexicain 72) Itzocatl et sa descendance](){:target="_blank"}: Bibblissima-Mandragore-BnF (Bibliothèque nationale de France)
 
 **H**
 
