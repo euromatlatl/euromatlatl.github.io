@@ -69,9 +69,15 @@ tags: [materiales, didácticos, bibliografía]
 
 **S**
 
+- [SELDEN, Rollo](https://digital.bodleian.ox.ac.uk/objects/75a8f3db-69d3-4bef-bfc5-c61a55562114/){:target="_blank"}: Bodleian Library MS. Arch. Selden. A. 72(3), University of Oxford, Inglaterra.
+
 **T**
 
+- [TECCIZTLAN y TEQUATEPEC, Lienzo de (Lienzo de Astata; Lienzo de Putla)](https://mediateca.inah.gob.mx/repositorio/islandora/object/codice%3A791){:target="_blank"}: Biblioteca Nacional de Antropología e Historia de México. Dr. Eusebio Dávalos Hurtado, INAH.
+
 - [TELLERIANO-REMENSIS, Códice (Mexicain 385)](https://gallica.bnf.fr/ark:/12148/btv1b8458267s){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+
+- [TEOCALTITLAN, Libro de tributos de San Pablo (Mexicain 376)](https://gallica.bnf.fr/ark:/12148/btv1b8455947h): Gallica-BnF (Bibliothèque nationale de France)
 
 - [TEPECHPAN, Tira (Mexicain 13-14)](https://gallica.bnf.fr/ark:/12148/btv1b55005968w){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
