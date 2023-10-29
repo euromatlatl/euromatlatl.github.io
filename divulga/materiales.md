@@ -1,10 +1,22 @@
 ---
 layout: page
-title: MATERIALES DIDÁCTICOS
+title: MATERIALES
 subtitle: Lore Ipsum
 cover-img: /assets/img/mendoza.jpg
-tags: [materiales, didácticos, bibliografía]
+tags: [materiales, códices, diccionarios, bibliografía]
 ---
+
+## Diccionarios online
+
+**Nahuatl colonial**
+
+- [GDN: Gran Diccionario Nahuatl](https://gdn.iib.unam.mx/){:target="_blank"}
+
+- [ODN: Online Nahuatl Dictionary](https://nahuatl.wired-humanities.org/){:target="_blank"}
+
+## Bases de datos glíficas
+
+- [Visual Lexicon of Aztec Hieroglyphs](https://aztecglyphs.wired-humanities.org/){:target="_blank"}
 
 ## Códices digitalizados
 
