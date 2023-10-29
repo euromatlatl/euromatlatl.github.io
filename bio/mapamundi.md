@@ -5,11 +5,11 @@ subtitle: Lore Ipsum
 cover-img: /assets/img/mapamundibanner.jpg
 ---
 
-:es: **ESPAÑA**
+**ESPAÑA**
 - Madrid
 
-:fr: **FRANCIA**
+**FRANCIA**
 - Toulouse
 
-:poland: **POLONIA**
+**POLONIA**
 - Varsovia
