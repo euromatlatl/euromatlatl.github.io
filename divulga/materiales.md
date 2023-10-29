@@ -48,6 +48,8 @@ tags: [materiales, didácticos, bibliografía]
 
 - [MENDOZA, Códice](https://digital.bodleian.ox.ac.uk/objects/2fea788e-2aa2-4f08-b6d9-648c00486220/surfaces/68210492-1fd1-499e-acee-188fa1226ca1){:target="_blank"}: Bodleian Library MS. Arch. Selden. A. 1, University of Oxford, Inglaterra.
 
+- [MEXICAIN DESPUIS 1221, Códice (MExicain 40) Histoire mexicaine, despuis 1221 justqu'en 1594](https://gallica.bnf.fr/ark:/12148/btv1b8452822d){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+
 - [MEXICANUS I, Códice (Mexicain 23-24)](https://gallica.bnf.fr/ark:/12148/btv1b55005834g){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 **N**
