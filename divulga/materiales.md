@@ -30,9 +30,9 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 - [Visual Lexicon of Aztec Hieroglyphs](https://aztecglyphs.wired-humanities.org/){:target="_blank"}
 
-## Programas ejecutables  
+## Programas y aplicaciones
 
-- PC
+- Ejecutable (Windows)
 
   - [CEN, TEMOA, GDN. POHUA/TLACHIA de SUP-INFOR](https://www.sup-infor.com/program/program.htm){:target="_blank"}
 
