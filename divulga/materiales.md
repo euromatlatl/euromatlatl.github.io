@@ -36,7 +36,7 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 ## Calendarios online
 
-- [TONALPOHUA en SUP-INFOR]([https://www.sup-infor.com/images/banner_tonal_2.png](https://tonalpohua.sup-infor.com/t/)){:target="_blank"} con [video explicativo](https://www.youtube.com/watch?v=3lehBBid9NU){:target="_blank"}
+- [TONALPOHUA en SUP-INFOR](https://tonalpohua.sup-infor.com/t/){:target="_blank"} con [video explicativo](https://www.youtube.com/watch?v=3lehBBid9NU){:target="_blank"}
 
 ## Códices digitalizados
 
