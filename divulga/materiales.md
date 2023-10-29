@@ -66,8 +66,6 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 **G**
 
-- [PRÍNCIPES MEXICANOS, Genealogía de (Mexicain 72) Itzocatl et sa descendance](){:target="_blank"}: Bibblissima-Mandragore-BnF (Bibliothèque nationale de France)
-
 **H**
 
 - [HUEXOTZINCO, Matrícula de](https://gallica.bnf.fr/ark:/12148/btv1b8470185f){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
@@ -99,9 +97,13 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 **P**
 
+- [PRÍNCIPES MEXICANOS, Genealogía de. (Mexicain 72) Itzocatl et sa descendance](https://mandragore.bnf.fr/ark:/12148/cgfbt204536k){:target="_blank"}: Bibblissima-Mandragore-BnF (Bibliothèque nationale de France)
+
 - [PROCESO PIEZA. (Mexicain 392) Pièce d'un Procès; microfilm B/N](https://gallica.bnf.fr/ark:/12148/btv1b10086465f){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 **Q**
+
+- [QUINATZIN, Mapa. (Mexicain 396)](https://gallica.bnf.fr/ark:/12148/btv1b10303825m){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 **R**
 
