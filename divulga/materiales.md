@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MATERIALES
+title: MATERIALES DE ESTUDIO
 subtitle: Lore Ipsum
 cover-img: /assets/img/mendoza.jpg
 tags: [materiales, códices, diccionarios, bibliografía]
