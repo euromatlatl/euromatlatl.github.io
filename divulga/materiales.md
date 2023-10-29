@@ -14,7 +14,19 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 - [ODN: Online Nahuatl Dictionary](https://nahuatl.wired-humanities.org/){:target="_blank"}
 
+## Textos
+
+- [Diccionarios alfabéticos SUP-INFOR](https://www.sup-infor.com/dico/alpha.htm){:target="_blank"}
+
+- [Textos Nahuatl en SUP-INFOR](https://www.sup-infor.com/sources/liste-nahuatl.htm){:target="_blank"}
+
+- [Textos Otomíes en SUP-INFOR](https://www.sup-infor.com/sources/liste-otomi.htm){:target="_blank"}
+
 ## Bases de datos glíficas
+
+- [Tlachia UNAM](https://tlachia.iib.unam.mx/){:target="_blank"}
+
+- [Tlachia SUP-INFOR](https://cen.sup-infor.com/home/tlachia){:target="_blank"}
 
 - [Visual Lexicon of Aztec Hieroglyphs](https://aztecglyphs.wired-humanities.org/){:target="_blank"}
 
