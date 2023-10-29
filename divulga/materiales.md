@@ -85,7 +85,7 @@ tags: [materiales, didácticos, bibliografía]
 
 - [TEPECHPAN, Tira (Mexicain 13-14)](https://gallica.bnf.fr/ark:/12148/btv1b55005968w){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
-- TEPETLAOZTOC, Códice de (ver KINGSBOROUGH, Códice)
+- TEPETLAOZTOC, Códice de (ver [KINGSBOROUGH, Códice](https://www.britishmuseum.org/collection/object/E_Am2006-Drg-13964){:target="_blank"})
  
 - [TOTOQUIHUAZTLI, Testamento de don Antonio (Mexicain 115) microfilm B/N](https://gallica.bnf.fr/ark:/12148/btv1b10087469k){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
