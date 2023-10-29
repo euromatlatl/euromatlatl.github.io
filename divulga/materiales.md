@@ -16,11 +16,11 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 ## Textos
 
-- [Diccionarios alfabéticos SUP-INFOR](https://www.sup-infor.com/dico/alpha.htm){:target="_blank"}
+- [Diccionarios alfabéticos de SUP-INFOR](https://www.sup-infor.com/dico/alpha.htm){:target="_blank"}
 
-- [Textos Nahuatl en SUP-INFOR](https://www.sup-infor.com/sources/liste-nahuatl.htm){:target="_blank"}
+- [Textos Nahuatl de SUP-INFOR](https://www.sup-infor.com/sources/liste-nahuatl.htm){:target="_blank"}
 
-- [Textos Otomíes en SUP-INFOR](https://www.sup-infor.com/sources/liste-otomi.htm){:target="_blank"}
+- [Textos Otomíes de SUP-INFOR](https://www.sup-infor.com/sources/liste-otomi.htm){:target="_blank"}
 
 ## Bases de datos gráficas
 
@@ -34,13 +34,13 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 - Ejecutable (Windows)
 
-  - [CEN, TEMOA, GDN. POHUA/TLACHIA de SUP-INFOR](https://www.sup-infor.com/program/program.htm){:target="_blank"}
+  - [CEN, TEMOA, GDN, POHUA/TLACHIA de SUP-INFOR](https://www.sup-infor.com/program/program.htm){:target="_blank"}
 
 ## Calendarios online
 
 - Tonalpohualli
 
-  - [TONALPOHUA en SUP-INFOR](https://tonalpohua.sup-infor.com/t/){:target="_blank"} con [video explicativo](https://www.youtube.com/watch?v=3lehBBid9NU){:target="_blank"}
+  - [TONALPOHUA de SUP-INFOR](https://tonalpohua.sup-infor.com/t/){:target="_blank"} con [video explicativo](https://www.youtube.com/watch?v=3lehBBid9NU){:target="_blank"}
 
 ## Códices digitalizados
 
