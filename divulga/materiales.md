@@ -22,7 +22,7 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 - [Textos Otomíes en SUP-INFOR](https://www.sup-infor.com/sources/liste-otomi.htm){:target="_blank"}
 
-## Bases de datos glíficas
+## Bases de datos gráficas
 
 - [Tlachia UNAM](https://tlachia.iib.unam.mx/){:target="_blank"}
 
