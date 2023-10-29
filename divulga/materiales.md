@@ -6,7 +6,7 @@ cover-img: /assets/img/mendoza.jpg
 tags: [materiales, didácticos, bibliografía]
 ---
 
-**Códices digitalizados**
+## Códices digitalizados
 
 **A**
 
