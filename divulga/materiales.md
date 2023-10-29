@@ -18,6 +18,8 @@ tags: [materiales, didácticos, bibliografía]
 
 **C**
 
+- [CHAVERO, Antigüedades mexicanas](http://bdh.bne.es/bnesearch/detalle/bdh0000012594){:target="_blank"}; facsímiles por Genaro López: Códice Colombino, Códice Porfirio Díaz, Códice Baranda, Códice Dehesa, Relieve de Chiapas y Lienzo de Tlaxcalla de la Junta Colombina. Biblioteca Nacional de España
+
 **D**
 
 **E**
@@ -69,6 +71,8 @@ tags: [materiales, didácticos, bibliografía]
 
 **S**
 
+- [SELDEN, Códice](https://digital.bodleian.ox.ac.uk/objects/5fb5517b-0539-4531-b996-44fa52ede044/){:target="_blank"}: Bodleian Library MS. Arch. Selden. A. 2, University of Oxford, Inglaterra.
+
 - [SELDEN, Rollo](https://digital.bodleian.ox.ac.uk/objects/75a8f3db-69d3-4bef-bfc5-c61a55562114/){:target="_blank"}: Bodleian Library MS. Arch. Selden. A. 72(3), University of Oxford, Inglaterra.
 
 **T**
@@ -93,7 +97,9 @@ tags: [materiales, didácticos, bibliografía]
 
 **V**
 
-- [Vaticano A, Códice (Manuscrit Vat. lat. 3738) o Códice Ríos](https://digi.vatlib.it/view/MSS_Vat.lat.3738){:target="_blank"}: Biblioteca Apostólica Vaticana
+- [VATICANO A, Códice (Manuscrit Vat. lat. 3738) o Códice Ríos](https://digi.vatlib.it/view/MSS_Vat.lat.3738){:target="_blank"}: Biblioteca Apostólica Vaticana
+
+- [VERGARA, Códice (Mexicain 37-36) Document cadastral ou codex Vergara](https://gallica.bnf.fr/ark:/12148/btv1b6001176g){:target="_blank"} Gallica-BnF (Bibliothèque nationale de France)
 
 **W**
 
