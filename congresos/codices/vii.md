@@ -11,7 +11,7 @@ tags: [séptimo, congreso, códices]
 <br/>
 
 {: .box-note}
-**[Ver Programa (cronológico)](/congresos/codices/vii/docs/VII-Congreso-2018.pdf)**
+**[Ver Programa (cronológico)](/congresos/codices/vii/docs/VII-Congreso-2018.pdf){:target="_blank"}**
 
 <br/>
 
