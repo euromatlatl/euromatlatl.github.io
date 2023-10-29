@@ -11,7 +11,7 @@ tags: [segundo, congreso, códices]
 <br/>
 
 {: .box-note}
-**[Ver Programa (cronológico)](/congresos/codices/ii/docs/II-Congreso-2007.pdf)**
+**[Ver Programa (cronológico)](/congresos/codices/ii/docs/II-Congreso-2007.pdf){:target="_blank"}**
 
 <br/>
 
