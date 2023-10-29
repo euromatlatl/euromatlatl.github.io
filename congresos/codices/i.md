@@ -11,7 +11,7 @@ tags: [primer, congreso, códices]
 <br/>
 
 {: .box-note}
-**[Ver Programa (cronológico)](/congresos/codices/i/docs/I-Congreso-2004.pdf)**
+**[Ver Programa (cronológico)](/congresos/codices/i/docs/I-Congreso-2004.pdf){:target="_blank"}**
 
 <br/>
 
