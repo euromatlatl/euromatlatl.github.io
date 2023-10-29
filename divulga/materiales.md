@@ -8,13 +8,71 @@ tags: [materiales, didácticos, bibliografía]
 
 **Códices digitalizados**
 
-- [FRAGMENT DE L'HISTORIE DES ANCIENTS MEXICAINS (Mexicain 85)](https://gallica.bnf.fr/ark:/12148/btv1b8458438r): Gallica-BnF (Bibliothèque nationale de France)
+**A**
 
-- [HUEXOTZINCO, Matrícula de: Gallica-BnF (Bibliothèque nationale de France)](https://gallica.bnf.fr/ark:/12148/btv1b8470185f)
+**B**
 
-- [MENDOZA, Códice: Bodleian Library MS. Arch. Selden. A. 1, University of Oxford](https://digital.bodleian.ox.ac.uk/objects/2fea788e-2aa2-4f08-b6d9-648c00486220/surfaces/68210492-1fd1-499e-acee-188fa1226ca1)
+**C**
 
-- [PROCESO PIEZA (Mexicain 392) Pièce d'un Procès; microfilm B/N: Gallica-BnF](https://gallica.bnf.fr/ark:/12148/btv1b10086465f)
-- [TEPECHPAN, Tira (Mexicain 13-14): Gallica-BnF (Bibliothèque nationale de France)](https://gallica.bnf.fr/ark:/12148/btv1b55005968w)
+**D**
 
-- [TOTOQUIHUAZTLI, Testamento de don Antonio (Mexicain 115) microfilm B/N: Gallica-BnF (Bibliothèque nationale de France)](https://gallica.bnf.fr/ark:/12148/btv1b10087469k)
+**E**
+
+**F**
+
+- [FRAGMENT DE L'HISTORIE DES ANCIENTS MEXICAINS (Mexicain 85)](https://gallica.bnf.fr/ark:/12148/btv1b8458438r){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+ 
+**G**
+
+**H**
+
+- [HUEXOTZINCO, Matrícula de](https://gallica.bnf.fr/ark:/12148/btv1b8470185f){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+
+**I**
+
+**J**
+
+**K**
+
+**L**
+
+**M**
+
+- [MENDOZA, Códice](https://digital.bodleian.ox.ac.uk/objects/2fea788e-2aa2-4f08-b6d9-648c00486220/surfaces/68210492-1fd1-499e-acee-188fa1226ca1){:target="_blank"}: Bodleian Library MS. Arch. Selden. A. 1, University of Oxford, Londres.
+
+**N**
+
+**O**
+
+**P**
+
+- [PROCESO PIEZA (Mexicain 392) Pièce d'un Procès; microfilm B/N](https://gallica.bnf.fr/ark:/12148/btv1b10086465f){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+
+**Q**
+
+**R**
+
+**S**
+
+**T**
+
+- [TEPECHPAN, Tira (Mexicain 13-14)](https://gallica.bnf.fr/ark:/12148/btv1b55005968w){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+
+- [TOTOQUIHUAZTLI, Testamento de don Antonio (Mexicain 115) microfilm B/N](https://gallica.bnf.fr/ark:/12148/btv1b10087469k){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+
+**U**
+
+**V**
+
+**W**
+
+**X**
+
+**Y**
+
+**Z**
+
+
+
+
+
