@@ -11,7 +11,7 @@ tags: [octavo, congreso, códices]
 <br/>
 
 {: .box-note}
-**[Ver Programa (cronológico)](/congresos/codices/viii/docs/VIII-Congreso-2022.pdf)**
+**[Ver Programa (cronológico)](/congresos/codices/viii/docs/VIII-Congreso-2022.pdf){:target="_blank"}**
 
 <br/>
 
