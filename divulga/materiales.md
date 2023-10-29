@@ -50,7 +50,7 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 - [AUBIN, Códice. (MSS 31219)](https://www.britishmuseum.org/collection/object/E_Am2006-Drg-31219){:target="_blank"}: The British Museum, Londres, Inglaterra
 
-    - *copia* AUBIN, Códice. Copia parcial de León y Gama de la BnF [(Mexicain 35-36)](https://gallica.bnf.fr/ark:/12148/btv1b8452802n){:target="_blank"}
+    - *copia:* AUBIN, Códice. Copia parcial de León y Gama de la BnF [(Mexicain 35-36)](https://gallica.bnf.fr/ark:/12148/btv1b8452802n){:target="_blank"}
 
 - [AZCATITLAN, Códice de. (Mexicain 59-64) Historie mexicane, dit 'Codex Azcatítlan'](https://gallica.bnf.fr/ark:/12148/btv1b84582686){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
