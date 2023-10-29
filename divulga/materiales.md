@@ -8,7 +8,7 @@ tags: [materiales, didácticos, bibliografía]
 
 **Códices digitalizados**
 
-- [FRAGMENT DE L'HISTORIE DES ANCIENTS MEXICAINS (Mexicain 85): Gallica-BnF (Bibliothèque nationale de France)](https://gallica.bnf.fr/ark:/12148/btv1b8458438r)
+- [FRAGMENT DE L'HISTORIE DES ANCIENTS MEXICAINS (Mexicain 85)](https://gallica.bnf.fr/ark:/12148/btv1b8458438r) Gallica-BnF (Bibliothèque nationale de France)
 
 - [HUEXOTZINCO, Matrícula de: Gallica-BnF (Bibliothèque nationale de France)](https://gallica.bnf.fr/ark:/12148/btv1b8470185f)
 
