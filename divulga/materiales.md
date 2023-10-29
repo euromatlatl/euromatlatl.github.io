@@ -10,9 +10,11 @@ tags: [materiales, didácticos, bibliografía]
 
 **A**
 
-- [AUBIN, Códice (Mexicain 35-36)](https://www.britishmuseum.org/collection/object/E_Am2006-Drg-31219){:target="_blank"}: The British Museum, Londres, Inglaterra)
+- [ANCIENTS MEXICAINS, Fragment de l'historie des. (Mexicain 85)](https://gallica.bnf.fr/ark:/12148/btv1b8458438r){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
-- [AZCATITLAN, Códice de (Mexicain 59-64) Historie mexicane, dit 'Codex Azcatítlan'](https://gallica.bnf.fr/ark:/12148/btv1b84582686){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [AUBIN, Códice. (Mexicain 35-36)](https://www.britishmuseum.org/collection/object/E_Am2006-Drg-31219){:target="_blank"}: The British Museum, Londres, Inglaterra
+
+- [AZCATITLAN, Códice de. (Mexicain 59-64) Historie mexicane, dit 'Codex Azcatítlan'](https://gallica.bnf.fr/ark:/12148/btv1b84582686){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 **B**
 
@@ -26,8 +28,6 @@ tags: [materiales, didácticos, bibliografía]
 
 **F**
 
-- [FRAGMENT DE L'HISTORIE DES ANCIENTS MEXICAINS (Mexicain 85)](https://gallica.bnf.fr/ark:/12148/btv1b8458438r){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
- 
 **G**
 
 - [PRÍNCIPES MEXICANOS, Genealogía de (Mexicain 72) Itzocatl et sa descendance](){:target="_blank"}: Bibblissima-Mandragore-BnF (Bibliothèque nationale de France)
@@ -37,25 +37,25 @@ tags: [materiales, didácticos, bibliografía]
 - [HUEXOTZINCO, Matrícula de](https://gallica.bnf.fr/ark:/12148/btv1b8470185f){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 **I**
-- [IXTLILHOXHITL, Códice (Mexicain 65-71](https://gallica.bnf.fr/ark:/12148/btv1b84701752){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [IXTLILHOXHITL, Códice. (Mexicain 65-71)](https://gallica.bnf.fr/ark:/12148/btv1b84701752){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 **J**
 
 **K**
 
-- [KINGSBOROUGH, Códice (Memorial de los Indios de Tepetlaoztoc)](https://www.britishmuseum.org/collection/object/E_Am2006-Drg-13964){:target="_blank"}: The British Museum, Londres, Inglaterra)
+- [KINGSBOROUGH, Códice. (Memorial de los Indios de Tepetlaoztoc)](https://www.britishmuseum.org/collection/object/E_Am2006-Drg-13964){:target="_blank"}: The British Museum, Londres, Inglaterra
 
 **L**
 
 **M**
 
-- [MENDOZA, Códice](https://digital.bodleian.ox.ac.uk/objects/2fea788e-2aa2-4f08-b6d9-648c00486220/surfaces/68210492-1fd1-499e-acee-188fa1226ca1){:target="_blank"}: Bodleian Library MS. Arch. Selden. A. 1, University of Oxford, Inglaterra.
+- [MENDOZA, Códice](https://digital.bodleian.ox.ac.uk/objects/2fea788e-2aa2-4f08-b6d9-648c00486220/surfaces/68210492-1fd1-499e-acee-188fa1226ca1){:target="_blank"}: Bodleian Library MS. Arch. Selden. A. 1, University of Oxford, Inglaterra
 
-- [MEXICAIN DESPUIS 1221, Códice (MExicain 40) Histoire mexicaine, despuis 1221 justqu'en 1594](https://gallica.bnf.fr/ark:/12148/btv1b8452822d){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [MEXICAIN DESPUIS 1221, Códice. (Mexicain 40) Histoire mexicaine, despuis 1221 justqu'en 1594](https://gallica.bnf.fr/ark:/12148/btv1b8452822d){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
-- [MEXICANUS I, Códice (Mexicain 23-24)](https://gallica.bnf.fr/ark:/12148/btv1b55005834g){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [MEXICANUS I, Códice. (Mexicain 23-24)](https://gallica.bnf.fr/ark:/12148/btv1b55005834g){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
-- [MOCTEZUMA, Códice](http://mediateca.inah.gob.mx/islandora_74/islandora/object/codice:628){:target="_blank"}: Biblioteca Nacional de Antropología e Historia de México, INAH)
+- [MOCTEZUMA, Códice](http://mediateca.inah.gob.mx/islandora_74/islandora/object/codice:628){:target="_blank"}: Biblioteca Nacional de Antropología e Historia de México, INAH
 
 **N**
 
@@ -63,7 +63,7 @@ tags: [materiales, didácticos, bibliografía]
 
 **P**
 
-- [PROCESO PIEZA (Mexicain 392) Pièce d'un Procès; microfilm B/N](https://gallica.bnf.fr/ark:/12148/btv1b10086465f){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [PROCESO PIEZA. (Mexicain 392) Pièce d'un Procès; microfilm B/N](https://gallica.bnf.fr/ark:/12148/btv1b10086465f){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 **Q**
 
@@ -71,35 +71,35 @@ tags: [materiales, didácticos, bibliografía]
 
 **S**
 
-- [SELDEN, Códice](https://digital.bodleian.ox.ac.uk/objects/5fb5517b-0539-4531-b996-44fa52ede044/){:target="_blank"}: Bodleian Library MS. Arch. Selden. A. 2, University of Oxford, Inglaterra.
+- [SELDEN, Códice](https://digital.bodleian.ox.ac.uk/objects/5fb5517b-0539-4531-b996-44fa52ede044/){:target="_blank"}: Bodleian Library MS. Arch. Selden. A. 2, University of Oxford, Inglaterra
 
-- [SELDEN, Rollo](https://digital.bodleian.ox.ac.uk/objects/75a8f3db-69d3-4bef-bfc5-c61a55562114/){:target="_blank"}: Bodleian Library MS. Arch. Selden. A. 72(3), University of Oxford, Inglaterra.
+- [SELDEN, Rollo](https://digital.bodleian.ox.ac.uk/objects/75a8f3db-69d3-4bef-bfc5-c61a55562114/){:target="_blank"}: Bodleian Library MS. Arch. Selden. A. 72(3), University of Oxford, Inglaterra
 
 **T**
 
-- [TECCIZTLAN y TEQUATEPEC, Lienzo de (Lienzo de Astata; Lienzo de Putla)](https://mediateca.inah.gob.mx/repositorio/islandora/object/codice%3A791){:target="_blank"}: Biblioteca Nacional de Antropología e Historia de México. Dr. Eusebio Dávalos Hurtado, INAH.
+- [TECCIZTLAN y TEQUATEPEC, Lienzo de. (Lienzo de Astata; Lienzo de Putla)](https://mediateca.inah.gob.mx/repositorio/islandora/object/codice%3A791){:target="_blank"}: Biblioteca Nacional de Antropología e Historia de México. Dr. Eusebio Dávalos Hurtado, INAH
 
-- [TELLERIANO-REMENSIS, Códice (Mexicain 385)](https://gallica.bnf.fr/ark:/12148/btv1b8458267s){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [TELLERIANO-REMENSIS, Códice. (Mexicain 385)](https://gallica.bnf.fr/ark:/12148/btv1b8458267s){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
-- [TEOCALTITLAN, Libro de tributos de San Pablo (Mexicain 376)](https://gallica.bnf.fr/ark:/12148/btv1b8455947h){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [TEOCALTITLAN, Libro de tributos de San Pablo. (Mexicain 376)](https://gallica.bnf.fr/ark:/12148/btv1b8455947h){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
-- [TEPECHPAN, Tira (Mexicain 13-14)](https://gallica.bnf.fr/ark:/12148/btv1b55005968w){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [TEPECHPAN, Tira. (Mexicain 13-14)](https://gallica.bnf.fr/ark:/12148/btv1b55005968w){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
-- TEPETLAOZTOC, Códice de (ver [KINGSBOROUGH, Códice](https://www.britishmuseum.org/collection/object/E_Am2006-Drg-13964){:target="_blank"})
+- TEPETLAOZTOC, Códice de. (Ver [KINGSBOROUGH, Códice](https://www.britishmuseum.org/collection/object/E_Am2006-Drg-13964){:target="_blank"})
  
-- [TOTOQUIHUAZTLI, Testamento de don Antonio (Mexicain 115) microfilm B/N](https://gallica.bnf.fr/ark:/12148/btv1b10087469k){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [TOTOQUIHUAZTLI, Testamento de don Antonio. (Mexicain 115) microfilm B/N](https://gallica.bnf.fr/ark:/12148/btv1b10087469k){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
-- [TLAXINCA, TLAYOTLACA, TECPANPA, Tributos de (Mexicain 28) microfilm B/N](https://gallica.bnf.fr/ark:/12148/btv1b100930762){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [TLAXINCA, TLAYOTLACA, TECPANPA, Tributos de. (Mexicain 28) microfilm B/N](https://gallica.bnf.fr/ark:/12148/btv1b100930762){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
-- [TLAXINCA, TLAYOTLACA, TECPANPA, Tributos de (Mexicain 108) microfil, B/N](https://gallica.bnf.fr/ark:/12148/btv1b10086542n){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [TLAXINCA, TLAYOTLACA, TECPANPA, Tributos de. (Mexicain 108) microfilm B/N](https://gallica.bnf.fr/ark:/12148/btv1b10086542n){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 **U**
 
 **V**
 
-- [VATICANO A, Códice (Manuscrit Vat. lat. 3738) o Códice Ríos](https://digi.vatlib.it/view/MSS_Vat.lat.3738){:target="_blank"}: Biblioteca Apostólica Vaticana
+- [VATICANO A, Códice. (Manuscrit Vat. lat. 3738) o Códice Ríos](https://digi.vatlib.it/view/MSS_Vat.lat.3738){:target="_blank"}: Biblioteca Apostólica Vaticana
 
-- [VERGARA, Códice (Mexicain 37-36) Document cadastral ou codex Vergara](https://gallica.bnf.fr/ark:/12148/btv1b6001176g){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [VERGARA, Códice. (Mexicain 37-36) Document cadastral ou codex Vergara](https://gallica.bnf.fr/ark:/12148/btv1b6001176g){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 **W**
 
