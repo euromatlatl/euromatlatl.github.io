@@ -11,5 +11,5 @@ cover-img: /assets/img/mapamundibanner.jpg
 :fr: **FRANCIA**
 - Toulouse
 
-:pl: **POLONIA**
+:poland: **POLONIA**
 - Varsovia
