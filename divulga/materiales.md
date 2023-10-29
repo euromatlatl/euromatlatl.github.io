@@ -32,13 +32,13 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 ## Programas ejecutables  
 
-
-- [CEN, TEMOA, GDN. POHUA/TLACHIA de SUP-INFOR](https://www.sup-infor.com/program/program.htm){:target="_blank"}
+- PC
+ - [CEN, TEMOA, GDN. POHUA/TLACHIA de SUP-INFOR](https://www.sup-infor.com/program/program.htm){:target="_blank"}
 
 ## Calendarios online
 
-
-- Tonalpohualli [TONALPOHUA en SUP-INFOR](https://tonalpohua.sup-infor.com/t/){:target="_blank"} con [video explicativo](https://www.youtube.com/watch?v=3lehBBid9NU){:target="_blank"}
+- TOnalpohualli
+ - [TONALPOHUA en SUP-INFOR](https://tonalpohua.sup-infor.com/t/){:target="_blank"} con [video explicativo](https://www.youtube.com/watch?v=3lehBBid9NU){:target="_blank"}
 
 ## Códices digitalizados
 
