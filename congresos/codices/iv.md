@@ -11,7 +11,7 @@ tags: [cuarto, congreso, códices]
 <br/>
 
 {: .box-note}
-**[Ver Programa (cronológico)](/congresos/codices/iv/docs/IV-Congreso-2012.pdf)**
+**[Ver Programa (cronológico)](/congresos/codices/iv/docs/IV-Congreso-2012.pdf){:target="_blank"}**
 
 <br/>
 
