@@ -11,7 +11,7 @@ tags: [sexto, congreso, códices]
 <br/>
 
 {: .box-note}
-**[Ver Programa (cronológico)](/congresos/codices/vi/docs/VI-Simposio-2016.pdf)**
+**[Ver Programa (cronológico)](/congresos/codices/vi/docs/VI-Simposio-2016.pdf){:target="_blank"}**
 
 <br/>
 
