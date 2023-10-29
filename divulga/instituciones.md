@@ -8,9 +8,9 @@ tags: [enlaces, instuciones, organismos]
 
 **Revistas**
 
-- [REAA](https://revistas.ucm.es/index.php/reaa){:target="_blank"}, Revista Española de Antropología Americana (ISSN 0556-6533) Universidad Complutense de Madrid, España
-
 - [Itinerarios](https://itinerarios.uw.edu.pl/){:target="_blank"}, (ISSN 1507-7241) Universidad de Varsovia, Polonia
+
+- [REAA](https://revistas.ucm.es/index.php/reaa){:target="_blank"}, Revista Española de Antropología Americana (ISSN 0556-6533) Universidad Complutense de Madrid, España
 
 **Universidades**
 
