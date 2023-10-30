@@ -147,7 +147,7 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 **X**
 
-- [XOLOTL, Códice](https://bridgeurl.com/codex-xolotl-mexicain-1-10-1){:target="_blank"} (Mexican [1](https://gallica.bnf.fr/ark:/12148/btv1b10303816n){:target="_blank"}, [2](https://gallica.bnf.fr/ark:/12148/btv1b103038190){:target="_blank"}, [3](https://gallica.bnf.fr/ark:/12148/btv1b103038228){:target="_blank"} y [4-10](https://gallica.bnf.fr/ark:/12148/btv1b103038262){:target="_blank"} Gallica-BnF (Bibliothèque nationale de France)
+- [XOLOTL, Códice](https://bridgeurl.com/codex-xolotl-mexicain-1-10-1){:target="_blank"} (Mexican [1](https://gallica.bnf.fr/ark:/12148/btv1b10303816n){:target="_blank"}, [2](https://gallica.bnf.fr/ark:/12148/btv1b103038190){:target="_blank"}, [3](https://gallica.bnf.fr/ark:/12148/btv1b103038228){:target="_blank"} y [4-10](https://gallica.bnf.fr/ark:/12148/btv1b103038262){:target="_blank"}): Gallica-BnF (Bibliothèque nationale de France)
 
 **Y**
 
