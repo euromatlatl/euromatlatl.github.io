@@ -105,7 +105,7 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 **Q**
 
-- [QUINATZIN, Mapa. (Mexicain 396)](https://gallica.bnf.fr/ark:/12148/btv1b10303825m){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [QUINATZIN, Mapa de. (Mexicain 396)](https://gallica.bnf.fr/ark:/12148/btv1b10303825m){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 **R**
 
@@ -123,7 +123,7 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 - [TEOCALTITLAN, Libro de tributos de San Pablo. (Mexicain 376)](https://gallica.bnf.fr/ark:/12148/btv1b8455947h){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
-- [TEPECHPAN, Tira. (Mexicain 13-14)](https://gallica.bnf.fr/ark:/12148/btv1b55005968w){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [TEPECHPAN, Tira de. (Mexicain 13-14)](https://gallica.bnf.fr/ark:/12148/btv1b55005968w){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 - TEPETLAOZTOC, Códice de. (Ver [KINGSBOROUGH, Códice](https://www.britishmuseum.org/collection/object/E_Am2006-Drg-13964){:target="_blank"})
  
@@ -147,7 +147,7 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 **X**
 
-- [XOLOTL, Códice](https://bridgeurl.com/codex-xolotl-mexicain-1-10-1){:target="_blank"} (Mexican [1](https://gallica.bnf.fr/ark:/12148/btv1b10303816n){:target="_blank"}, [2](https://gallica.bnf.fr/ark:/12148/btv1b103038190){:target="_blank"}, [3](https://gallica.bnf.fr/ark:/12148/btv1b103038228){:target="_blank"} y [4-10](https://gallica.bnf.fr/ark:/12148/btv1b103038262){:target="_blank"}): Gallica-BnF (Bibliothèque nationale de France)
+- [XOLOTL, Códice](https://bridgeurl.com/codex-xolotl-mexicain-1-10-1){:target="_blank"}. (Mexican [1](https://gallica.bnf.fr/ark:/12148/btv1b10303816n){:target="_blank"}, [2](https://gallica.bnf.fr/ark:/12148/btv1b103038190){:target="_blank"}, [3](https://gallica.bnf.fr/ark:/12148/btv1b103038228){:target="_blank"} y [4-10](https://gallica.bnf.fr/ark:/12148/btv1b103038262){:target="_blank"}): Gallica-BnF (Bibliothèque nationale de France)
 
 **Y**
 
