@@ -160,13 +160,18 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 **X**
 
-- [XOLOTL, Códice](https://bridgeurl.com/codex-xolotl-mexicain-1-10-1){:target="_blank"}. (Mexican [1](https://gallica.bnf.fr/ark:/12148/btv1b10303816n){:target="_blank"}, [2](https://gallica.bnf.fr/ark:/12148/btv1b103038190){:target="_blank"}, [3](https://gallica.bnf.fr/ark:/12148/btv1b103038228){:target="_blank"} y [4-10](https://gallica.bnf.fr/ark:/12148/btv1b103038262){:target="_blank"}): Gallica-BnF (Bibliothèque nationale de France)
+- [XOLOTL, Códice](https://bridgeurl.com/codex-xolotl-mexicain-1-10-1){:target="_blank"}. (Mexicain [1](https://gallica.bnf.fr/ark:/12148/btv1b10303816n){:target="_blank"}, [2](https://gallica.bnf.fr/ark:/12148/btv1b103038190){:target="_blank"}, [3](https://gallica.bnf.fr/ark:/12148/btv1b103038228){:target="_blank"} y [4-10](https://gallica.bnf.fr/ark:/12148/btv1b103038262){:target="_blank"}): Gallica-BnF (Bibliothèque nationale de France)
 
 **Y**
 
 **Z**
 
+## Códices mayas
 
+- [DRESDE, Códice](https://digital.slub-dresden.de/werkansicht/dlf/2967/1?tx_dlf%5Bpagegrid%5D=1&cHash=b4db56391c1bb332830d76c2e3d08615){:target="_blank"}: *Codex Dresdensis* - Mscr.Dresd.R.310 (SLUB Dresden)
 
+- [MADRID, Códice](https://ceres.mcu.es/pages/Viewer?accion=4&AMuseo=MAM&Museo=MAM&Ninv=70300){:target="_blank"}: Códice Trocortesiano o de Madrid, Nº Inv. 70300, (Museo de América, Madrid)
+
+- [PARÍS, Códice](https://gallica.bnf.fr/ark:/12148/btv1b8446947j){:target="_blank"}: *Codex Peresianus* - Mexicain 386. Gallica-BnF (Bibliothèque nationale de France)
 
 
