@@ -66,6 +66,8 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 **F**
 
+- [FLORENTINO, Códice](https://florentinecodex.getty.edu/){:target="_blank"}: Versión digitalizada con gran calidad y detalle con transcripción del español/náhuatl y su traducción español-inglés/náhuatl-inglés. Editado por Kim N. Richter y Alicia María Houtrouw, Getty Research Institute (J. Paul Getty Trust)
+
 **G**
 
 **H**
@@ -73,6 +75,7 @@ tags: [materiales, códices, diccionarios, bibliografía]
 - [HUEXOTZINCO, Matrícula de](https://gallica.bnf.fr/ark:/12148/btv1b8470185f){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 **I**
+
 - [IXTLILHOXHITL, Códice. (Mexicain 65-71)](https://gallica.bnf.fr/ark:/12148/btv1b84701752){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
 
 **J**
