@@ -166,7 +166,7 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 **Z**
 
-## Códices mayas
+## Códices mayas digitalizados
 
 - [DRESDE, Códice](https://digital.slub-dresden.de/werkansicht/dlf/2967/1?tx_dlf%5Bpagegrid%5D=1&cHash=b4db56391c1bb332830d76c2e3d08615){:target="_blank"}: *Codex Dresdensis* - Mscr.Dresd.R.310 (SLUB Dresden)
 
