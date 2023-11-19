@@ -58,7 +58,7 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 **C**
 
-- [CHAVERO, Antigüedades mexicanas](http://bdh.bne.es/bnesearch/detalle/bdh0000012594){:target="_blank"}; facsímiles por Genaro López: Códice Colombino, Códice Porfirio Díaz, Códice Baranda, Códice Dehesa, Relieve de Chiapas y Lienzo de Tlaxcalla de la Junta Colombina. Biblioteca Nacional de España
+- [CHAVERO, Antigüedades mexicanas](http://bdh.bne.es/bnesearch/detalle/bdh0000012594){:target="_blank"}: facsímiles por Genaro López: Códice Colombino, Códice Porfirio Díaz, Códice Baranda, Códice Dehesa, Relieve de Chiapas y Lienzo de Tlaxcalla de la Junta Colombina. Biblioteca Nacional de España
 
 **D**
 
