@@ -16,11 +16,15 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 ## Textos
 
+- [Early Nahuatl Library](https://enl.wired-humanities.org/){:target="_blank"}: Stephanie Wood, Universidad de Oregón
+
 - [Diccionarios alfabéticos de SUP-INFOR](https://www.sup-infor.com/dico/alpha.htm){:target="_blank"}
 
 - [Textos Nahuatl de SUP-INFOR](https://www.sup-infor.com/sources/liste-nahuatl.htm){:target="_blank"}
 
 - [Textos Otomíes de SUP-INFOR](https://www.sup-infor.com/sources/liste-otomi.htm){:target="_blank"}
+
+- [Transcripción náhuatl del Códice Florentino en txt](https://zenodo.org/records/7213020){:target="_blank"}
 
 ## Bases de datos gráficas
 
@@ -28,13 +32,19 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 - [Tlachia SUP-INFOR](https://cen.sup-infor.com/home/tlachia){:target="_blank"}
 
-- [Visual Lexicon of Aztec Hieroglyphs](https://aztecglyphs.wired-humanities.org/){:target="_blank"}
+- [Visual Lexicon of Aztec Hieroglyphs](https://aztecglyphs.wired-humanities.org/){:target="_blank"}: Stephanie Wood, Universidad de Oregón
+
+- [Mapas Project](https://mapas.wired-humanities.org/){:target="_blank"}: de temática cartográfica; Stephanie Wood, Universidad de Oregón
 
 ## Programas y aplicaciones
 
 - Ejecutable (Windows)
 
   - [CEN, TEMOA, GDN, POHUA/TLACHIA de SUP-INFOR](https://www.sup-infor.com/program/program.htm){:target="_blank"}
+ 
+- Experimentales
+
+  - [Visual Recognition of Aztec Hieroglyphs](https://aztecglyphrecognition.wired-humanities.org/){:target="_blank"}: Reconocimiento visual de glifos a través de imágenes; Lisardo Pérez Lugones y Tarun Subhash Nagdeve, Google GSoC Project; Stephanie Wood, Universidad de Oregón
 
 ## Calendarios online
 
