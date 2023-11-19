@@ -76,7 +76,7 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 **F**
 
-- [FLORENTINO, Códice](https://florentinecodex.getty.edu/){:target="_blank"}: Versión digitalizada con gran calidad y detalle con transcripción del español/náhuatl y su traducción español-inglés/náhuatl-inglés. Editado por Kim N. Richter y Alicia María Houtrouw, Getty Research Institute (J. Paul Getty Trust)
+- [FLORENTINO, Códice](https://florentinecodex.getty.edu/){:target="_blank"}: Fray Bernardino de Sahagún, *Historia Universal de las cosas de Nueva España*. Versión digitalizada de gran calidad y detalle con transcripción del español/náhuatl y su traducción español-inglés/náhuatl-inglés. Editado por Kim N. Richter y Alicia María Houtrouw, Getty Research Institute (J. Paul Getty Trust)
 
 **G**
 
