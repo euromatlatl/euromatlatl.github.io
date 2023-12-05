@@ -52,6 +52,10 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
   - [TONALPOHUA de SUP-INFOR](https://tonalpohua.sup-infor.com/t/){:target="_blank"} con [video explicativo](https://www.youtube.com/watch?v=3lehBBid9NU){:target="_blank"}
 
+## Listado de Códices
+
+- [Listado alfabético Wiki-Filología](https://www.iifilologicas.unam.mx/wikfil/index.php/%C3%8Dndice_Alfab%C3%A9tico#M){:target="_blank"}: Instituto de Investigaciones Filológicas, UNAM, México
+
 ## Códices digitalizados
 
 **A**
