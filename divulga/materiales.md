@@ -54,7 +54,9 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 ## Listado de Códices
 
-- [Listado alfabético Wiki-Filología](https://www.iifilologicas.unam.mx/wikfil/index.php/%C3%8Dndice_Alfab%C3%A9tico#M){:target="_blank"}: Instituto de Investigaciones Filológicas, UNAM, México
+- [Listado alfabético en Wiki-Filología](https://www.iifilologicas.unam.mx/wikfil/index.php/%C3%8Dndice_Alfab%C3%A9tico#M){:target="_blank"}: Instituto de Investigaciones Filológicas, UNAM, México
+
+- [Listado de Techialoyan en Wiki-Filología](https://www.iifilologicas.unam.mx/wikfil/index.php/Techialoyan){:target="_blank"}: Instituto de Investigaciones Filológicas, UNAM, México
 
 ## Códices digitalizados
 
