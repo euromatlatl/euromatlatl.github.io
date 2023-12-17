@@ -76,7 +76,7 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 - [CHAVERO, Antigüedades mexicanas](http://bdh.bne.es/bnesearch/detalle/bdh0000012594){:target="_blank"}: facsímiles por Genaro López: Códice Colombino, Códice Porfirio Díaz, Códice Baranda, Códice Dehesa, Relieve de Chiapas y Lienzo de Tlaxcalla de la Junta Colombina. Biblioteca Nacional de España
 
-- [CERÓN Y CARBAJAL, ALCALDE MAYOR DE CHALCO, Pliegos de recibos de. (Mexicain 30)](https://gallica.bnf.fr/ark:/12148/btv1b8452800t){:target="_blank"}: *Reçus, pliegos de recibos, présentés par le capitaine Jorge Cerón y Carbajal, "alcalde mayor" de Chalco, au cours d'un procès que lui intentèrent les habitants de la localité par devant la "Real Audiencia" de Mexico en 1564, au sujet de diverses corvées auxquelles il les avait illégalement contraints.* Gallica-BnF (Bibliothèque nationale de France)
+- [CERÓN Y CARBAJAL, ALCALDE MAYOR DE CHALCO, Pliegos de recibos de. (Mexicain 30)](https://gallica.bnf.fr/ark:/12148/btv1b8452800t){:target="_blank"}: *Reçus, pliegos de recibos, présentés par le capitaine Jorge Cerón y Carbajal, "alcalde mayor" de Chalco, au cours d'un procès que lui intentèrent les habitants de la localité par devant la "Real Audiencia" de Mexico en 1564, au sujet de diverses corvées auxquelles il les avait illégalement contraints.* Gallica-BnF (Bibliothèque nationale de France) [+INFO](https://www.iifilologicas.unam.mx/wikfil/index.php/Ceron_y_Carabajal,_Alcalde_Mayor_de_Chalco._Re%C3%A7us_presentes_par_le_Capitaine_Jorge){:target="_blank"}
 
 **D**
 
