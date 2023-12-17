@@ -94,7 +94,7 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 **H**
 
-- [HUEXOTZINCO, Matrícula de](https://gallica.bnf.fr/ark:/12148/btv1b8470185f){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [HUEXOTZINCO, Matrícula de. (Mexicain 387)](https://gallica.bnf.fr/ark:/12148/btv1b8470185f){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France) [+INFO](https://www.iifilologicas.unam.mx/wikfil/index.php/Huexotzingo,_Matricula_de){:target="_blank"}
 
 **I**
 
