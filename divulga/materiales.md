@@ -62,13 +62,13 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
 **A**
 
-- [ANCIENTS MEXICAINS, Fragment de l'historie des. (Mexicain 85)](https://gallica.bnf.fr/ark:/12148/btv1b8458438r){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [ANCIENTS MEXICAINS, Fragment de l'historie des. (Mexicain 85)](https://gallica.bnf.fr/ark:/12148/btv1b8458438r){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France) [+INFO](https://www.iifilologicas.unam.mx/wikfil/index.php/Mexicains,_Fragment_de_l%E2%80%99histoire_des_anciens){:target="_blank"}
 
-- [AUBIN, Códice. (MSS 31219)](https://www.britishmuseum.org/collection/object/E_Am2006-Drg-31219){:target="_blank"}: The British Museum, Londres, Inglaterra
+- [AUBIN, Códice. (MSS 31219)](https://www.britishmuseum.org/collection/object/E_Am2006-Drg-31219){:target="_blank"}: The British Museum, Londres, Inglaterra [+INFO](https://www.iifilologicas.unam.mx/wikfil/index.php/Aubin,_C%C3%B3dice){:target="_blank"}
 
     - *copia:* AUBIN, Códice. Copia parcial de León y Gama de la BnF [(Mexicain 35-36)](https://gallica.bnf.fr/ark:/12148/btv1b8452802n){:target="_blank"}
 
-- [AZCATITLAN, Códice de. (Mexicain 59-64) Historie mexicane, dit 'Codex Azcatítlan'](https://gallica.bnf.fr/ark:/12148/btv1b84582686){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France)
+- [AZCATITLAN, Códice de. (Mexicain 59-64) Historie mexicane, dit 'Codex Azcatítlan'](https://gallica.bnf.fr/ark:/12148/btv1b84582686){:target="_blank"}: Gallica-BnF (Bibliothèque nationale de France) [+INFO](https://www.iifilologicas.unam.mx/wikfil/index.php/Azcatitlan,_C%C3%B3dice){:target="_blank"}
 
 **B**
 
@@ -77,6 +77,8 @@ tags: [materiales, códices, diccionarios, bibliografía]
 - [CHAVERO, Antigüedades mexicanas](http://bdh.bne.es/bnesearch/detalle/bdh0000012594){:target="_blank"}: facsímiles por Genaro López: Códice Colombino, Códice Porfirio Díaz, Códice Baranda, Códice Dehesa, Relieve de Chiapas y Lienzo de Tlaxcalla de la Junta Colombina. Biblioteca Nacional de España
 
 - [CERÓN Y CARBAJAL, ALCALDE MAYOR DE CHALCO, Pliegos de recibos de. (Mexicain 30)](https://gallica.bnf.fr/ark:/12148/btv1b8452800t){:target="_blank"}: *Reçus, pliegos de recibos, présentés par le capitaine Jorge Cerón y Carbajal, "alcalde mayor" de Chalco, au cours d'un procès que lui intentèrent les habitants de la localité par devant la "Real Audiencia" de Mexico en 1564, au sujet de diverses corvées auxquelles il les avait illégalement contraints.* Gallica-BnF (Bibliothèque nationale de France) [+INFO](https://www.iifilologicas.unam.mx/wikfil/index.php/Ceron_y_Carabajal,_Alcalde_Mayor_de_Chalco._Re%C3%A7us_presentes_par_le_Capitaine_Jorge){:target="_blank"}
+
+    - *copia:* CERÓN Y CARBAJAL, Pliegos de recibos de. Copia de Pichardo la BnF [(Mexicain 296)](https://gallica.bnf.fr/ark:/12148/btv1b100876789){:target="_blank"}
 
 **D**
 
