@@ -52,6 +52,12 @@ tags: [materiales, códices, diccionarios, bibliografía]
 
   - [TONALPOHUA de SUP-INFOR](https://tonalpohua.sup-infor.com/t/){:target="_blank"} con [video explicativo](https://www.youtube.com/watch?v=3lehBBid9NU){:target="_blank"}
 
+## Archivos Digitalizados
+
+- [Repositorio Documental Digital del Archivo General de la Nación de México](https://repositorio.agn.gob.mx/){:target="_blank"}: AGN, México
+
+- [Portal de Archivos Españoles PARES](https://pares.cultura.gob.es/inicio.html){:target="_blank"}: Archivos Estatales, Madrid, España
+
 ## Listado de Códices
 
 - [Listado alfabético en Wiki-Filología](https://www.iifilologicas.unam.mx/wikfil/index.php/%C3%8Dndice_Alfab%C3%A9tico#M){:target="_blank"}: Instituto de Investigaciones Filológicas, UNAM, México
