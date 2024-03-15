@@ -28,7 +28,4 @@ Computer DBA at a research center of the Spanish Department of Science, he is al
 
 - 2016, Naylamp: el gobernante que vino por mar. Origen de la comitiva lambayecana desde una perspectiva onomástica, Hoces y Moral (coords.), *El mar: Una forma de vida en América*, HyCMar, Madrid, pp. 153-184. ISBN-13: 978-84-617-7389-3.[^1]
 
-
-<a href="https://www.freepik.com/free-vector/profile-icons-pack-hand-drawn-style_18156023.htm#query=profile&position=0&from_view=keyword&track=sph">Image by pikisuperstar</a> on Freepik
-
 [^1]: En coautoría con A. Pantoja
