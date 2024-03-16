@@ -3,7 +3,7 @@ layout: page
 title: Lisardo Pérez Lugones
 subtitle: Red de Investigación Europea sobre Códices y Mesoamérica
 ---
-![PerezLugonesLisardo](/bio/img/male.png){: .mx-auto.d-block :}
+![PerezLugonesLisardo](/bio/img/PerezLugonesLisardo.jpg){: .mx-auto.d-block :}
 
 ![uni](/bio/img/UCM.jpg){: .mx-auto.d-block :}
 
