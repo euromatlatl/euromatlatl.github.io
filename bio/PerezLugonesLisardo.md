@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lisardo Pérez Lugones
-subtitle: Universidad Complutense de Madrid
+subtitle: Red de Investigación Europea sobre Códices y Mesoamérica
 ---
 ![PerezLugonesLisardo](/bio/img/PerezLugonesLisardo.jpg){: .mx-auto.d-block :}
 
