@@ -52,21 +52,19 @@ tags: [noveno, congreso, códices]
 
 - JARQUÍN ORTEGA, María Teresa (El Colegio Mexiquense, A.C.): *El códice Osuna: producto de la visita de Jerónimo Valderrama*
 
-- PUGLIESE, Fiona (Universidad de Toulouse II. Jean Jaurès): *Dioses y diosas en la iconografía: el género en la representación de lo divino*
-
-- RUZ, Miguel Ángel (Universidad Complutense de Madrid): *Del códice al GIS: utilidad de los documentos pictográficos para la geografía histórica*
-
 - LÓPEZ ORTEGO, Cristina (Universidad Complutense de Madrid): *Toda ayuda es válida, todo recurso es útil en tiempos de necesidad*
 
 - MIKULSKA, Katarzyna y Julia MADAJCZAK (Universidad de Varsovia): *Viajes de Quetzalcoatl, caminos de Ehecatl, y la topografía del más allá*
 
-- BRYLAK, Agnieszka (Universidad de Varsovia): *Los dioses y sus atributos en los Códices Matritenses: aplicabilidad del análisis de redes*
-
 - PÉREZ LUGONES, Lisardo (UCM): *Antropónimos compuestos en el censo pictórico de la Matrícula de Huexotzinco relativos a YAOTL*
+
+- PUGLIESE, Fiona (Universidad de Toulouse II. Jean Jaurès): *Dioses y diosas en la iconografía: el género en la representación de lo divino*
 
 - PUIG CARRASCO, Alberto (UCM): *Bárbaros en el imperio: el glifo para chichimeca-otomí en la Matrícula de Huexotzinco*
 
 - RAIMÚNDEZ ARES, Zoraida (UCM): *Los difrasismos en la Matrícula de Huexotzinco. Identificación y estudio preliminar*
+
+- RUZ, Miguel Ángel (Universidad Complutense de Madrid): *Del códice al GIS: utilidad de los documentos pictográficos para la geografía histórica*
 
 - SANTAMARINA NOVILLO, Carlos (UCM): *Muerte de señores en el Códice Xolotl*
 
