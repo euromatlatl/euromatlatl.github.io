@@ -76,7 +76,7 @@ tags: [octavo, congreso, códices]
 
 - SZOBLIK, Katarzyn a (Universidad de Varsovia): *Las mujeres en el Códice Xolotl*
 
-- TAMBURRI, Davide (UCM): *Enclaves Tepanecas en el Códice Xolotl*
+- TAMBURRINI, Davide (UCM): *Enclaves Tepanecas en el Códice Xolotl*
 
 - VALENCIA, Rogelio y DAVLETSHIN, Albert (Universidad Veracruzana): *El signo auxiliar línea dentro del sistema de escritura náhuatl*
 
