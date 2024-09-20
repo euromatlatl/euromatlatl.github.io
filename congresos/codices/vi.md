@@ -6,7 +6,7 @@ cover-img: /assets/img/mendoza.jpg
 tags: [sexto, congreso, códices]
 ---
 
-| [HISTÓRICO](/congresos/codices/historico) | [I](/congresos/codices/i) | [II](/congresos/codices/ii) | [III](/congresos/codices/iii) | [IV](/congresos/codices/iv) | [V](/congresos/codices/v) | **VI** | [VII](/congresos/codices/vii) | [VIII](/congresos/codices/viii) |
+| [HISTÓRICO](/congresos/codices/historico) | [I](/congresos/codices/i) | [II](/congresos/codices/ii) | [III](/congresos/codices/iii) | [IV](/congresos/codices/iv) | [V](/congresos/codices/v) | **VI** | [VII](/congresos/codices/vii) | [VIII](/congresos/codices/viii) | [IX](/congresos/codices/ix) |
 
 <br/>
 
