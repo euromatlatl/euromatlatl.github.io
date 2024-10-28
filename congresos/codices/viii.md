@@ -20,7 +20,7 @@ tags: [octavo, congreso, códices]
  - Dr. José Luis de Rojas (Universidad Complutense de Madrid, España)
  - Dr. Carlos Santamarina Novillo (Universidad Complutense de Madrid, España)
  - Dr. Miguel Ángel Ruz Barrio (Universidad Complutense de Madrid, España)
- - Lisardo Pérez Lugones (Universidad Complutense de Madrid, España)
+ - Mtro. Lisardo Pérez Lugones (Universidad Complutense de Madrid, España)
 
 <br/>
 
