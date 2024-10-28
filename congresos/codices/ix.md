@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IX CONGRESO INTERNACIONAL CÓDICES DEL CENTRO DE MÉXICO
-subtitle: UCM, Madrid (21 al 23 de octubre de 2024)
+subtitle: UCM, Madrid (21 y 22 de octubre de 2024)
 cover-img: /assets/img/mendoza.jpg
 tags: [noveno, congreso, códices]
 ---
@@ -35,8 +35,6 @@ tags: [noveno, congreso, códices]
 - BOSQUE, Cristina (Universidad Carlos III): *Los mapas de San Francisco Mazapan*
 
 - BRYLAK, Agnieszka (Universidad de Varsovia): *Los dioses y sus atributos en los Códices Matritenses: aplicabilidad del análisis de redes*
-
-- CONTEL, José (Universidad de Toulouse II. Jean Jaurès): *Quiahuitl. Algunas reflexiones sobre los signos de la lluvia en los códices y otras fuentes pictográficas*
 
 - GARCÍA RODRÍGUEZ, Lucía (UCM): *Análisis del elemento “calli-casa” y sus combinaciones en la Matrícula de Huexotzinco*
 
