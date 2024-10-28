@@ -46,7 +46,7 @@ tags: [noveno, congreso, códices]
 
 - HERRMANN, Manuel (CIESAS): *Lugares "calendario", Lugares-tiempo. El papel de las "fechas sagradas" en el Códice Vindobonensis*
 
-- HIDALGO, Francisco José (UC): *Entre glifos y enseñas: trazas del imaginario azteca en las pinturas de conquista novohispanas*
+- HIDALGO, Francisco José (UCM): *Entre glifos y enseñas: trazas del imaginario azteca en las pinturas de conquista novohispanas*
 
 - JARQUÍN ORTEGA, María Teresa (El Colegio Mexiquense, A.C.): *El códice Osuna: producto de la visita de Jerónimo Valderrama*
 
