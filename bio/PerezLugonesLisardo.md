@@ -9,7 +9,7 @@ subtitle: Lisardo Pérez Lugones
 
 **Bio:**
 
-Computer DBA at a research center of the Spanish Department of Science, he is also Historian and Master in History and Anthropology of America from Complutense University of Madrid, focused in Aztec writing and Central Mexico codices. He has participated twice in the international program “Google Summer of Code”, developing a prototype for visual recognition of Aztec glyphs through Machine Learning, plus several editions as the “Kislak Workshop” at the US Library of Congress, and “Sign and Symbol in Comparative Perspective” at the University of Warsaw, discussing the process of visual encoding of human language and its manifestations.
+Historian and Master in History and Anthropology of America from Complutense University of Madrid, focused in Aztec writing and Central Mexico codices. He has participated twice in the international program “Google Summer of Code”, developing a prototype for visual recognition of Aztec glyphs through Machine Learning, plus several editions as the “Kislak Workshop” at the US Library of Congress, and “Sign and Symbol in Comparative Perspective” at the University of Warsaw, discussing the process of visual encoding of human language and its manifestations.
 
 **Publicaciones**
 
