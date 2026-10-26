@@ -28,46 +28,36 @@ tags: [noveno, congreso, códices]
 
 ## Participantes (orden alfabético)
 
-- BATALLA ROSADO, Juan José (UCM): *La homofonía en los glifos de la Matrícula de Huexotzinco: el caso del elemento que indica “llanto”*
+- BATALLA ROSADO, Juan José (UCM): *Errores y aciertos de tres décadas de investigación de gabinete*
 
-- BOSQUE, Cristina (Universidad Carlos III): *Los mapas de San Francisco Mazapan*
+- BOSQUE, Cristina (Universidad Carlos III) y Miguel Ángel RUZ BARRIO (UCM): *Tres siglos de conflictos por la tierra en el valle de Teotihuacan a través de los documentos pictográficos*
 
-- BRYLAK, Agnieszka (Universidad de Varsovia): *Los dioses y sus atributos en los Códices Matritenses: aplicabilidad del análisis de redes*
+- BRYLAK, Agnieszka (Universidad de Varsovia): *Los elementos constitutivos de los dioses nahuas en la sección del ‘panteón’ de los Códices Matritenses*
 
-- GARCÍA RODRÍGUEZ, Lucía (UCM): *Análisis del elemento “calli-casa” y sus combinaciones en la Matrícula de Huexotzinco*
+- GAILLEMIN, Bérénice (Universidad de Varsovia): *Cuando los teteuctin vuelan y se arrastran: dos estudios de caso a partir del Códice Florentino*
 
-- GONZÁLEZ CENTENO, Gregorio (UCM): *Análisis estructural del Códice Cardona*
+- GARCÍA RODRÍGUEZ, Lucía (UCM): *Análisis de los glifos de antropónimo relativos al tochtli (conejo) y citli (liebre) en la Matrícula de Huexotzinco*
 
-- GONZÁLEZ FERNÁNDEZ, Sara (UCM): *Tipos de cabezas de censados en la Matrícula de Huexotzinco: sexo, edad, adscripción social y salud*
+- GONZÁLEZ CENTENO, Gregorio (UCM): *Dos falsificaciones inéditas y sus posibles vínculos con otros códices*
 
-- GONZÁLEZ HERRANZ, Mario (UCM): *Análisis de los glifos con elementos relativos al autosacrificio y sacrificio y sus combinaciones en la Matrícula de Huexotzinco*
+- LÓPEZ ORTEGO, Cristina (Universidad Complutense de Madrid): *La imagen como fuente y testimonio: actualizaciones sobre saberes médicos indígenas en los códices prehispánicos y coloniales del Valle de México*
 
-- HERRMANN, Manuel (CIESAS): *Lugares "calendario", Lugares-tiempo. El papel de las "fechas sagradas" en el Códice Vindobonensis*
+- MADAJCZAK, Julia (Universidad de Varsovia): *Los dioses en el cosmograma del Códice Fejérváry-Mayer*
 
-- HIDALGO, Francisco José (UCM): *Entre glifos y enseñas: trazas del imaginario azteca en las pinturas de conquista novohispanas*
+- MARTÍNEZ BARTOLOMÉ, Marta (UCM): *Análisis de los glifos de antropónimos relativos al elemento nenetl- “muñeca, ídolo, natura de mujer" en el censo pictográfico de la Matrícula de Huexotzinco*
 
-- JARQUÍN ORTEGA, María Teresa (El Colegio Mexiquense, A.C.): *El códice Osuna: producto de la visita de Jerónimo Valderrama*
+- MIGUEL TAMAYO, Pablo (UCM): *Análisis de los glifos de antropónimo relativos al coyotl (coyote) y cuetlachtli (lobo) en la Matrícula de Huexotzinco*
 
-- LÓPEZ ORTEGO, Cristina (Universidad Complutense de Madrid): *Toda ayuda es válida, todo recurso es útil en tiempos de necesidad*
+- MIKULSKA, Katarzyna (Universidad de Varsovia): *Ms. Aubin/Mexican 20: nuevos descubrimientos*
 
-- MIKULSKA, Katarzyna y Julia MADAJCZAK (Universidad de Varsovia): *Viajes de Quetzalcoatl, caminos de Ehecatl, y la topografía del más allá*
+- MONTORO, Gláucia Cristiani (Universidade Federal Rural do Rio de Janeiro, Brasil): *Estudio codicológico del Códice Vaticano A: el caso de las filigranas*
 
-- PÉREZ LUGONES, Lisardo (UCM): *Antropónimos compuestos en el censo pictórico de la Matrícula de Huexotzinco relativos a YAOTL*
+- MURSELL, Ian y Graciela SÁNCHEZ (Mexicolore, Reino Unido): *El uso de códices mesoamericanos en la educación primaria en Inglaterra*
 
-- PUGLIESE, Fiona (Universidad de Toulouse II. Jean Jaurès): *Dioses y diosas en la iconografía: el género en la representación de lo divino*
+- PÉREZ LUGONES, Lisardo (UCM / SEDIA): *Hacia un nuevo ‘Lago de Texcoco’ y una Triple Alianza digital: datos, semántica e Inteligencia Artificial para la investigación multimodal de los códices mesoamericanos*
 
-- PUIG CARRASCO, Alberto (UCM): *Bárbaros en el imperio: el glifo para chichimeca-otomí en la Matrícula de Huexotzinco*
+- PUIG CARRASCO, Alberto (UCM): *Ni naturales ni vecinos. El extranjero/advenedizo en la Matrícula de Huexotzinco: análisis de los glifos de antropónimo indicativos del término y de los nombres de los barrios donde se asentaron para indicar su procedencia*
 
-- RAIMÚNDEZ ARES, Zoraida (UCM): *Los difrasismos en la Matrícula de Huexotzinco. Identificación y estudio preliminar*
+- RAIMÚNDEZ ARES, Zoraida (UCM): *Análisis de los glifos de antropónimo relativos a los tipos de cueitl (falda) en la Matrícula de Huexotzinco*
 
-- RUZ, Miguel Ángel (Universidad Complutense de Madrid): *Del códice al GIS: utilidad de los documentos pictográficos para la geografía histórica*
-
-- SANTAMARINA NOVILLO, Carlos (UCM): *Muerte de señores en el Códice Xolotl*
-
-- SZOBLIK, Katarzyna (Universidad de Varsovia): *Cómo los códices pueden ayudar en la interpretación de los textos de Cantares Mexicanos*
-
-- TAMBURRINI, Davide (Universidad Complutense de Madrid): *Cemilhuitzin y Quauhquechol: dos autores del Códice Xolotl y sus descendientes coloniales*
-
-- VOUTSARAS, Periklis Ioannis (UCM): *Análisis de los glifos de antropónimos relativos a insectos en el censo pictórico de la Matrícula de Huexotzinco*
-
-- WHITTAKER, Gordon (Georg-August-Universität Göttingen): *¿Qué revelan los códices sobre la naturaleza de los sistemas de escritura mesoamericanos?*
+- VOUTSARAS, Periklis Ioannis (UCM): *Análisis de los glifos de antropónimo relativos al ocelotl (jaguar) y miztli (león, gato montés) en la Matrícula de Huexotzinco*
