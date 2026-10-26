@@ -31,6 +31,7 @@ navbar-links:
     - VII Congreso: "/congresos/codices/vii"
     - VIII Congreso: "/congresos/codices/viii"
     - IX Congreso: "/congresos/codices/ix"
+    - X Congreso: "/congresos/codices/x"
   Divulgación:
     - Tesis doctorales: "divulga/tesis"
     - Publicaciones: "/divulga/publicaciones"
